@@ -1,0 +1,1001 @@
+user_id	type	type_id	department	category	brand	title	price	timestamp
+scusr-6ca6f4cd-cb09-417a-ab63-308e8d9033c5	product	4k7c4masta5nh	Men's Fashion	null	Kara	Kara Wallet - For Men (Brown)	447.0	2016,12,13,20,51,45
+scusr-6ca6f4cd-cb09-417a-ab63-308e8d9033c5	deal	37fcpfiol1a4j	null	unknown	null	Super Deals Of The Day!	259.0	2016,12,13,20,46,32
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	product	6no9dpmsi40ld	null	null	Micromax	q	5767.0	2016,12,14,09,21,38
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	product	6no9dpmsi40ld	null	null	Micromax	q	5767.0	2016,12,14,09,21,38
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	2uq7bu4aboac2	Men's Fashion	men clothing	null	Flat 40-80%OFF on Biggest Brands!	109.0	2016,12,14,09,20,33
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	tekeij2nvg7p	null	unknown	null	Look Fab This Wedding Season!	279.0	2016,11,30,18,22,36
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	2t4bbr82vom70	Mobiles	mobile & accessories	null	Everything A Phone Needs	899.0	2016,11,29,17,58,51
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	d0v5fb6qd52a3	null	unknown	null	Mega Loot Bazaar!	199.0	2016,11,28,14,06,00
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	2d9apqet09naj	null	mobile & accessories	null	Deals On Smartphones!	10499.0	2016,11,26,13,54,01
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	a1o3v6ls7a13g	null	fashion accessories	null	Branded Shoe At All Time Low	678.0	2016,11,25,13,56,46
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	b6ngnvpdhrjsf	null	unknown	null	Exciting Christmas Sale	99.0	2016,12,20,16,33,11
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2016,01,02,16,40,58
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	3eumh7n3gaptm	null	mobile & accessories	null	Accessorize Your Phone!	59.0	2017,01,07,21,06,50
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	akel0mposcu54	null	unknown	null	Welcome 2017 Sale-Extra 15% OFF!	300.0	2017,01,09,00,28,38
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2017,02,11,20,35,24
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2017,02,14,00,10,59
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	4nog0jnl8dth5	Mobiles	null	null	Lenovo+K6+Power+-+Sale+Today+At+12+Noon	9999.0	2017,02,24,18,32,57
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	bhidhclujnomd	null	null	null	Best+of+All+Under+399%21	379.0	2017,03,08,23,19,55
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	5s6u7os8fa6tv	null	null	null	Deals+Of+The+Day	99.0	2017,03,12,13,51,24
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	7nhg83u6bh7k0	null	null	null	Sports+Shoes+Sale	1599.0	2017,05,22,21,09,55
+scusr-dcc316b8-ef24-4cf1-bc1a-55d770ff7adb	deal	1roocoa2reg1j	null	null	null	Upto+80%25+off+on+All+Products+%40tatacliq+	599.0	2017,05,27,14,16,46
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,39,03
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,34,26
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,48,49
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,17,19,09,37
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,16,20,17,08
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,39,03
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,34,26
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,14,21,48,49
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,03,19,50,14
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,03,19,53,19
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,03,18,54,27
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	avs9i68m3tru5	Mobiles	null	Micromax	Micromax Canvas Unite 4 Pro Q465	7399.0	2016,12,26,13,51,45
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,16,43,15
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	1i84sqihh3mdc	Mobiles	null	LYF	Lyf Wind 6	5513.0	2016,12,25,08,18,46
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	3ketlgfq4789	Mobiles	null	LYF	Lyf Wind 4	6699.0	2016,12,25,08,08,45
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f8ncspo668bvm	Mobiles	null	LYF	Lyf Wind 2 16gb	8311.0	2016,12,25,08,46,19
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,11,56,34
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	1i84sqihh3mdc	Mobiles	null	LYF	Lyf Wind 6	5513.0	2016,12,25,08,42,22
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,09,06,39
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,09,07,38
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,08,49,00
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	18a3ciha4lnem	Mobiles	null	LYF	Lyf Wind 1 16gb	6088.0	2016,12,25,08,20,18
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	bguqgfec5b6n6	Mobiles	null	LYF	LYF Wind 6 8 GB Gold	5510.0	2016,12,25,08,15,46
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,25,08,57,16
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,03,19,50,14
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,03,19,53,19
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,03,18,54,27
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,01,02,19,27,14
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,01,02,19,28,10
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	4139bcn27vocp	Mobiles	null	Panasonic	Panasonic Eluga Note	10199.0	2016,12,27,13,59,52
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,06,13,52,08
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,10,20,56,05
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	c5ahd0et7one8	Mobiles	null	Samsung	Samsung On5	7499.0	2017,01,11,08,43,08
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,11,08,37,26
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	fuurh9lpjklia	Mobiles	null	LYF	Lyf Wind 1	6199.0	2017,01,10,21,03,28
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,03,19,57,49
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2016,12,16,20,13,40
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	3ketlgfq4789	Mobiles	null	LYF	Lyf Wind 4	6699.0	2016,12,25,08,09,25
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,06,13,52,44
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,10,20,57,06
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,17,19,39,48
+scusr-211a4620-0ff2-463a-83c4-6338012536f5	product	f27mv5dgght58	Mobiles	null	LYF	Lyf Wind 3	6919.0	2017,01,22,19,19,20
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	product	emc9lhd5dmfm2	Mobiles	null	Samsung	Samsung Galaxy E5	10299.0	2016,12,14,17,11,48
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	product	dhi970afd0s3b	Home & Kitchen	null	Next	Next Generation Queen-1500 Electric Kettle	650.0	2016,12,14,17,11,41
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	product	dhi970afd0s3b	Home & Kitchen	null	Next	Next Generation Queen-1500 Electric Kettle	650.0	2016,12,14,17,11,41
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	product	areeaj308ic9a	null	null	null	%22The+Night+Train+at+Deoli+and+Other+Stories+%28Paperback%29+	120.0	2017,05,29,12,53,44
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	deal	95mcds94k7rv8	Mobiles	mobile & accessories	Swipe	Swipe Konnect Neo 4G, Black [ 4G VoLTE, Quad Core, Android v6 0 Marshmallow, 5MP Camera]	2799.0	2016,12,31,12,42,22
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	deal	2trsvjj3ibo3n	null	mobile & accessories	null	Best Sellers Of 2016	799.0	2016,12,28,10,27,46
+scusr-6da79e27-4946-4403-92f8-8cc7eae2258d	deal	50jhes2kamnog	null	null	null	Summer+Shopping+Days%3A+Offers+on+Mobiles+%26+Tablets	8999.0	2017,05,29,12,51,47
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,14,11,01,39
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,14,11,01,39
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	40u2gr8id0nft	Mobiles	null	Micromax	Micromax Canvas Spark 2 Q334	4499.0	2016,12,12,23,24,27
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3k1bhp2rigf6l	Mobiles	null	Micromax	Micromax Canvas A1	4389.0	2016,12,12,23,27,59
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	d4srbgv2bjbr1	Mobiles	null	Micromax	Micromax Canvas Spark	4899.0	2016,12,12,23,26,09
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,12,23,38,16
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3k1bhp2rigf6l	Mobiles	null	Micromax	Micromax Canvas A1	4389.0	2016,12,12,23,28,11
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	40u2gr8id0nft	Mobiles	null	Micromax	Micromax Canvas Spark 2 Q334	4499.0	2016,12,12,23,25,01
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,12,23,36,12
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	75m7opnqqhqb2	Mobiles	null	Micromax	Micromx Canvas HD Plus A190 - White	5500.0	2016,11,23,16,32,37
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3kv7h6pq3a154	Mobiles	null	Micromax	Micromax A290 Canvas Knight Cameo	5899.0	2016,11,23,16,34,05
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3k1bhp2rigf6l	Mobiles	null	Micromax	Micromax Canvas A1	4389.0	2016,11,23,16,29,02
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	40u2gr8id0nft	Mobiles	null	Micromax	Micromax Canvas Spark 2 Q334	4499.0	2016,12,12,23,24,27
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3k1bhp2rigf6l	Mobiles	null	Micromax	Micromax Canvas A1	4389.0	2016,12,12,23,27,59
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	d4srbgv2bjbr1	Mobiles	null	Micromax	Micromax Canvas Spark	4899.0	2016,12,12,23,26,09
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,12,23,38,16
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	3k1bhp2rigf6l	Mobiles	null	Micromax	Micromax Canvas A1	4389.0	2016,12,12,23,28,11
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	40u2gr8id0nft	Mobiles	null	Micromax	Micromax Canvas Spark 2 Q334	4499.0	2016,12,12,23,25,01
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	251dbdr9ue6lr	Mobiles	null	Micromax	Micromax Canvas Spark 3	4299.0	2016,12,12,23,36,12
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	7eonprjjqt2j	Mobiles	null	Micromax	Micomax Canvas Spark 4G	5998.0	2016,12,31,13,40,01
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	7eonprjjqt2j	Mobiles	null	Micromax	Micomax Canvas Spark 4G	5998.0	2017,01,13,13,00,08
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	7eonprjjqt2j	Mobiles	null	Micromax	Micomax Canvas Spark 4G	5998.0	2017,01,14,11,22,46
+scusr-835ad0c4-1da5-44c7-973f-247f7319bfa8	product	75m7opnqqhqb2	Mobiles	null	Micromax	Micromx Canvas HD Plus A190 - White	5500.0	2017,01,14,11,23,48
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	qstpo8k42ru8	Home & Kitchen	null	Godrej	Godrej InstaCook GMX 30 CA1 SIM 30-Litre Convection Microwave Oven	11999.0	2016,12,14,21,22,27
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	34kblbknoib39	Home & Kitchen	null	Havells	Havells 38 RSS 38-Litre Electric Oven	7543.0	2016,12,14,21,14,52
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	3lv9gmhvpbrcg	Home & Kitchen	null	Kenstar	Kenstar KJ30CSG250 30-Litre Convection Microwave Oven	13190.0	2016,12,14,21,21,50
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d7aiuu3344g6a	Home & Kitchen	null	IFB	IFB 30BRC2 30-Litre Rotisserie Convection Microwave Oven	12899.0	2016,12,14,21,20,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	6lo3a6gidtcrc	Home & Kitchen	null	Whirlpool	Whirlpool Microwave Oven Magicook Elite - 20 Litre	8500.0	2016,12,14,21,14,27
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	3lv9gmhvpbrcg	Home & Kitchen	null	Kenstar	Kenstar KJ30CSG250 30-Litre Convection Microwave Oven	13190.0	2016,12,14,21,21,57
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	qstpo8k42ru8	Home & Kitchen	null	Godrej	Godrej InstaCook GMX 30 CA1 SIM 30-Litre Convection Microwave Oven	11999.0	2016,12,14,21,22,27
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d7aiuu3344g6a	Home & Kitchen	null	IFB	IFB 30BRC2 30-Litre Rotisserie Convection Microwave Oven	12899.0	2016,12,14,21,20,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	6lo3a6gidtcrc	Home & Kitchen	null	Whirlpool	Whirlpool Microwave Oven Magicook Elite - 20 Litre	8500.0	2016,12,14,21,14,27
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	799p9m0bol3gc	Home & Kitchen	null	Bajaj	Bajaj Majesty 4500 TMCSS 45-Litre Oven Toaster Grill	8548.0	2016,12,26,12,18,36
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	799p9m0bol3gc	Home & Kitchen	null	Bajaj	Bajaj Majesty 4500 TMCSS 45-Litre Oven Toaster Grill	8548.0	2016,12,25,00,27,19
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	6s211528bj6ie	Home & Kitchen	null	Morphy Richards	Morphy Richards 28 R-SS 28 L OTG Microwave Oven	6079.0	2016,12,23,23,15,10
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	ciphhgmomgd9h	Home & Kitchen	null	Bajaj	Bajaj 3500 TMCSS 35-Litre 2000-Watt Oven Toaster Grill	6350.0	2016,12,22,18,40,05
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	ciphhgmomgd9h	Home & Kitchen	null	Bajaj	Bajaj 3500 TMCSS 35-Litre 2000-Watt Oven Toaster Grill	6350.0	2016,12,22,18,33,52
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	b4aeblbafdfds	Home & Kitchen	null	Oster	Oster TSSTTVXXLL-049 42-Litre 1640-Watt Oven Toaster Grill	7999.0	2016,12,22,18,40,13
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	ciphhgmomgd9h	Home & Kitchen	null	Bajaj	Bajaj 3500 TMCSS 35-Litre 2000-Watt Oven Toaster Grill	6350.0	2016,12,21,20,40,39
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	ciphhgmomgd9h	Home & Kitchen	null	Bajaj	Bajaj 3500 TMCSS 35-Litre 2000-Watt Oven Toaster Grill	6350.0	2016,12,21,20,40,29
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	799p9m0bol3gc	Home & Kitchen	null	Bajaj	Bajaj Majesty 4500 TMCSS 45-Litre Oven Toaster Grill	8548.0	2017,01,06,21,21,05
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	8rodbiiv5c410	Mobiles	null	ZTE	ZTE Nubia Z9	12990.0	2017,01,11,22,29,22
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	ak8gv5eec8897	Mobiles	null	ZTE	ZTE Nubia N1	186.0	2017,01,11,22,28,47
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	52e9qccmbr3a5	Mobiles	null	Samsung	Samsung Micro SD 32GB	565.0	2017,02,15,21,27,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d84cuvmf1i98l	Mobiles	null	Transcend	Transcend Memory Card MicroSD 32GB	594.0	2017,02,15,21,33,16
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d84cuvmf1i98l	Mobiles	null	Transcend	Transcend Memory Card MicroSD 32GB	594.0	2017,02,15,21,33,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	1hr3l8j4bsrs	Mobiles	null	Strontium	Strontium 32GB MicroSD Memory Card	374.0	2017,02,15,21,28,53
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	6js1afectsepk	Mobiles	unknown	null	Lenovo P2 (Gold, 32 GB)  (With 4 GB RAM)	17999.0	2017,01,11,22,30,32
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	3lbl8a1fnd7ug	Mobiles	null	Forme	Forme+N5%2B+Selfie+with+Wireless+FM	699.0	2017,04,26,16,58,28
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	95mcds94k7rv8	Mobiles	mobile & accessories	Swipe	Swipe Konnect Neo 4G, Black [ 4G VoLTE, Quad Core, Android v6 0 Marshmallow, 5MP Camera]	2799.0	2016,12,27,18,45,49
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	5g2e2u525q760	null	null	null	charge-on-the-go	0.0	2016,12,30,16,33,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	52e9qccmbr3a5	Mobiles	null	Samsung	Samsung Micro SD 32GB	565.0	2017,02,15,21,28,16
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	1hr3l8j4bsrs	Mobiles	null	Strontium	Strontium 32GB MicroSD Memory Card	374.0	2017,02,15,21,28,56
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d84cuvmf1i98l	Mobiles	null	Transcend	Transcend Memory Card MicroSD 32GB	594.0	2017,02,15,21,34,17
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	product	d84cuvmf1i98l	Mobiles	null	Transcend	Transcend Memory Card MicroSD 32GB	594.0	2017,02,15,21,34,27
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	e3lduvgfd2td6	Mobiles	null	null	4G+VoLTE%2C+3000mAh+battery+with+Flash+Charge+Phone	3999.0	2017,03,13,14,46,01
+scusr-426bf859-dfd1-40a5-8b23-eb6c2f271477	deal	e5osu5ifgnun2	null	null	null	Droom+Helmet+%40Rs 9+	9.0	2017,05,23,12,29,16
+scusr-541f6125-537e-4688-8794-2ede15f9f74d	product	99nfbbcqeiok6	Mobiles	null	Motorola	Moto Z Play	47000.0	2016,12,13,22,33,45
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	9edov9ifhrup7	Mobiles	null	Xolo	XOLO Era	4499.0	2016,12,14,22,02,41
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,11,15
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	2m6ac7vmht2nn	Electronics	null	Enter	Enter E-S220 Mini USB Speaker	449.0	2016,12,14,22,08,25
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	2m6ac7vmht2nn	Electronics	null	Enter	Enter E-S220 Mini USB Speaker	449.0	2016,12,14,22,07,59
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	22dv3qhlj9gjp	Mobiles	null	XOLO	Xolo Era 2	4499.0	2016,12,14,22,00,48
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,15,04
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,09,26
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,09,41
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	9edov9ifhrup7	Mobiles	null	Xolo	XOLO Era	4499.0	2016,12,14,22,02,19
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,13,12
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	8mve4on2mh4n2	Mobiles	null	Xolo	Xolo Era HD	4499.0	2016,12,14,22,00,00
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	a1q3rtvjce99e	Mobiles	null	LENOVO	Lenovo Vibe X3	26999.0	2016,12,15,21,17,12
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,11,15
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,15,04
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,09,26
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,09,41
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,14,22,13,12
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	5n73o1usqgah7	Electronics	null	Enter	Enter E-S270 Mini USB Speaker	190.0	2016,12,13,14,43,11
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,13,14,51,39
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	2m6ac7vmht2nn	Electronics	null	Enter	Enter E-S220 Mini USB Speaker	449.0	2016,12,13,14,44,45
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	2m6ac7vmht2nn	Electronics	null	Enter	Enter E-S220 Mini USB Speaker	449.0	2016,12,13,14,46,40
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	34fidp7tc5i5r	Electronics	null	Quantum	QHM 620 USB Mini Speaker	168.0	2016,12,13,14,52,58
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	product	5n73o1usqgah7	Electronics	null	Enter	Enter E-S270 Mini USB Speaker	190.0	2017,02,24,12,04,16
+scusr-aecf2b38-51a3-4679-85fa-24c33df5c094	deal	6mq7f25b0juup	Mobiles	null	null	Redmi+4A+-+Sale+Today	5999.0	2017,03,23,12,43,36
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	8brsj3fv0t1vi	Home & Kitchen	null	Oster	Oster CKSTSM3888 700-Watt 2-Slice Sandwich Maker	1032.0	2016,12,14,22,45,36
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	3gv3fqn4rsg2c	Home & Kitchen	null	Eureka Forbes	Eureka Forbes Trendy Nano Vacuum Cleaner	2863.0	2016,12,14,22,46,05
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	8brsj3fv0t1vi	Home & Kitchen	null	Oster	Oster CKSTSM3888 700-Watt 2-Slice Sandwich Maker	1032.0	2016,12,14,22,45,36
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	e8563vd93taog	Home & Kitchen	null	Oster	Oster BVSTEM6601S-049 10 cups Coffee Maker	11898.0	2016,11,30,13,12,07
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	8brsj3fv0t1vi	Home & Kitchen	null	Oster	Oster CKSTSM3888 700-Watt 2-Slice Sandwich Maker	1032.0	2016,11,30,13,12,16
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	product	eue6mib6tengf	Home & Kitchen	null	Philips	Philips HR 2775 Citrus Juicer (White)	769.0	2017,02,03,13,32,17
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	2ued49b2pgv2l	Mobiles	mobile & accessories	null	Moto M	15999.0	2016,12,15,00,11,16
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	df5d8uimlamek	Men's Fashion	men clothing	null	Min 40-70% + Additional 15/30% Off + Rs 1000 off	499.0	2016,12,14,22,47,37
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	dkmp41uuk48j8	null	unknown	null	The Grocery Sale	129.0	2016,12,15,21,09,36
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	dv41b6ot3o4al	null	unknown	null	Winter Care For Ur Skin!	110.0	2016,11,28,08,33,34
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	brs238d772gmf	null	unknown	null	Sunday Flea Market@Shopclues	25.0	2016,11,27,12,22,19
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	c36lufudgu8qg	null	unknown	null	Min 25% Off On Best Selling Books	311.0	2016,11,26,20,34,44
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	37fcpfiol1a4j	null	unknown	null	Super Deals Of The Day!	259.0	2016,11,25,16,32,38
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	dv41b6ot3o4al	null	unknown	null	Winter Care For Ur Skin!	110.0	2016,11,24,08,29,56
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	3sbin7bptl37j	Mobiles	mobile & accessories	null	Redmi 3S & Redmi 3S Prime Sale (Starts@12 Noon Today) 	6999.0	2016,11,23,13,20,47
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	2h7gd88drbhe3	null	mobile & accessories	null	Mobile Accessories Starts@49 !!	84.0	2016,11,22,16,35,07
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	70ktptlmfcjma	null	mobile & accessories	null	Upto 90% OFF - Mobile Accessories	99.0	2016,11,19,09,44,12
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	7vdbtp5q4u5lg	Mobiles	mobile & accessories	null	Top Selling Mobile & Tablets	424.0	2016,11,17,12,54,49
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2016,11,16,09,19,25
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	c7jadfvpfvk8t	null	unknown	null	The Wedding Collection	375.0	2016,11,15,09,30,16
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	6hs2g1c5t5ikv	null	unknown	null	Look Beautiful,Feel Beautiful	183.0	2016,11,14,08,29,29
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	brs238d772gmf	null	unknown	null	Sunday Flea Market@Shopclues	25.0	2016,11,13,13,36,21
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	5s9lem5qgva35	Men's Fashion	men clothing	null	Stay Warm-Look Cool!	800.0	2016,11,12,08,23,42
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	aek2s73kl92ma	null	unknown	null	Cashback Ka Baap Offer!	90.0	2016,11,10,22,06,49
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	6hs2g1c5t5ikv	null	unknown	null	Look Beautiful,Feel Beautiful	183.0	2017,11,07,17,08,28
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	1kksso63jf2j3	null	mobile & accessories	null	Upto 92% OFF on Mobile Accessories!	100.0	2017,11,06,09,28,53
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,11,02,12,41,34
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	2f9s68f2rj5l3	null	mobile & accessories	null	Top Selling Electronic Accessories	59.0	2017,11,01,13,23,39
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	9kh7h2aq3jgtr	null	fashion accessories	null	It's Time To Lace Up!!	300.0	2017,10,31,12,12,11
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	d16rk5khuo2l7	null	unknown	null	Big Diwali Sale!	299.0	2017,10,28,09,58,10
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	b4crump64uo44	null	unknown	null	Go Ethnic This Diwali!	299.0	2017,10,24,07,41,39
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	aoie8u8senuu9	null	electronics	null	Big Diwali Sale Is Live Now!	300.0	2017,10,22,14,11,58
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	aoie8u8senuu9	null	electronics	null	Big Diwali Sale Is Live Now!	300.0	2017,10,21,09,47,12
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	bjumelbdjihs9	null	unknown	null	Min 40% Off On Books	132.0	2016,12,22,20,03,09
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	842e8mrf70hpf	Men's Fashion	men clothing	null	Amazon EOSS: Flat 40-80% OFF	209.0	2016,12,29,08,34,12
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	37fcpfiol1a4j	null	unknown	null	Super Deals Of The Day!	259.0	2016,10,24,16,24,03
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	842e8mrf70hpf	Men's Fashion	men clothing	null	Amazon EOSS: Flat 40-80% OFF	209.0	2016,12,29,08,34,16
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	6hs2g1c5t5ikv	null	unknown	null	Look Beautiful,Feel Beautiful	183.0	2016,12,31,16,28,36
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	edj1s9b9gff4r	null	null	null	super-deals-on-tv-electronics-appliances	0.0	2017,01,21,06,26,59
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	edj1s9b9gff4r	null	null	null	super-deals-on-tv-electronics-appliances	0.0	2017,01,21,06,29,32
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	9acakan79i94	null	null	null	great-indian-sale	0.0	2017,01,21,06,29,53
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	8uj3hf9cs45sa	null	null	null	home-kitchen-appliances-upto-81-off-from-rs-299-cashbak-offer	0.0	2017,01,21,06,32,04
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	degfs0khhuegn	null	null	null	home-kitchen-upto-80-off	0.0	2017,01,24,08,36,10
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	70ktptlmfcjma	null	mobile & accessories	null	Upto 90% OFF - Mobile Accessories	99.0	2017,01,29,14,58,29
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	6hs2g1c5t5ikv	null	unknown	null	Look Beautiful,Feel Beautiful	183.0	2017,01,30,08,43,57
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	868jignth8q2j	null	null	null	Super+Bargain+Sale	199.0	2017,02,21,09,24,07
+scusr-2cefd3e1-5147-43e8-b03f-7ada5a48dbe7	deal	c2mdgq3v7ei6m	Mobiles	null	samsung	Samsung+Carnival%3A+Deals+on+Mobiles%2C+TVs+%2C+Appliances+%26+more	299.0	2017,02,22,13,00,06
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	51ppfpdf5rpph	Mobiles	null	Micromax	Yu Yunique Plus	4999.0	2016,12,15,12,49,24
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	51ppfpdf5rpph	Mobiles	null	Micromax	Yu Yunique Plus	4999.0	2016,12,14,21,53,32
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5cqp38s7ue4b2	Mobiles	null	HTC	Htc Desire 616	8200.0	2016,12,14,22,00,05
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	29v4a0p1s1ba1	Mobiles	null	HTC	HTC Desire 326G	6499.0	2016,12,14,22,00,30
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	51ppfpdf5rpph	Mobiles	null	Micromax	Yu Yunique Plus	4999.0	2016,12,14,21,52,08
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	7s7ic78de1rfg	Mobiles	null	HTC	HTC One M8	17999.0	2016,12,14,22,00,49
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3ab31ruqj3bvo	Mobiles	null	HTC	HTC Desire 626G+ Dual SIM	6911.0	2016,12,14,21,59,17
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	cao9cnenro0oa	Mobiles	null	HTC	HTC EVO 4G	2999.0	2016,12,14,22,01,50
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	433uaes0ek6n8	Mobiles	null	HTC	Htc Desire 526 G+	6345.0	2016,12,14,21,59,04
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ggnk7h2v63qt	Mobiles	null	HTC	HTC Desire 620G	5311.0	2016,12,14,21,57,57
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	51ppfpdf5rpph	Mobiles	null	Micromax	Yu Yunique Plus	4999.0	2016,12,14,21,55,41
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5cqp38s7ue4b2	Mobiles	null	HTC	Htc Desire 616	8200.0	2016,12,14,22,00,05
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	29v4a0p1s1ba1	Mobiles	null	HTC	HTC Desire 326G	6499.0	2016,12,14,22,00,30
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	433uaes0ek6n8	Mobiles	null	HTC	Htc Desire 526 G+	6345.0	2016,12,14,21,59,04
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3or8jhpmogp6r	Mobiles	null	Samsung	Samsung Galaxy S7 Edge	50900.0	2016,12,02,21,13,36
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	69qjjtprcknqr	Mobiles	null	Xiaomi	Xiaomi Mi 4i	9499.0	2016,12,08,22,19,04
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	6kvr2ift65nmt	Mobiles	null	Xiaomi	Redmi Note Prime	8499.0	2016,12,02,21,09,25
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,08,22,28,07
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	c5ahd0et7one8	Mobiles	null	Samsung	Samsung On5	7499.0	2016,12,08,22,23,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2016,12,11,07,11,52
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	69qjjtprcknqr	Mobiles	null	Xiaomi	Xiaomi Mi 4i	9499.0	2016,12,08,22,18,49
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	1bemqg8unr5h5	Mobiles	null	Samsung	Samsung Galaxy S4	11333.0	2016,12,02,21,15,19
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5g4v39otuqheb	Mobiles	null	Samsung	Samsung Galaxy J5	10490.0	2016,12,02,21,17,24
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,07,16,51,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dbmmnl2bup50n	Mobiles	null	Samsung	Samsung Galaxy Note 4	36900.0	2016,12,02,21,10,13
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,07,17,01,11
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	fs5i3qkv1nkdi	Mobiles	null	Samsung	Samsung On7 Pro	9990.0	2016,12,02,21,14,40
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	b8aiccjfmhjm5	Mobiles	null	Xiaomi	Redmi Note3	9999.0	2016,12,07,20,57,39
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5g4v39otuqheb	Mobiles	null	Samsung	Samsung Galaxy J5	10490.0	2016,12,02,21,17,42
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3or8jhpmogp6r	Mobiles	null	Samsung	Samsung Galaxy S7 Edge	50900.0	2016,12,02,21,13,46
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	b2matj3o0beer	Mobiles	null	null	Coolpad Note 3 Lite	8799.0	2016,12,11,07,12,03
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,09,20,46,15
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2016,12,11,07,09,48
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bnd07658l3hpi	Mobiles	null	Xiaomi	Xiaomi Redmi 2	6299.0	2016,12,08,22,26,50
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,12,09,20,44,23
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	ajoaa2bdhqj7	Mobiles	null	Plus	Coolpad Note 3 Plus	8999.0	2016,12,11,07,12,29
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4snn6cl1ethfe	Mobiles	null	Micromax	Micromax Canvas Mega E353	5129.0	2016,11,29,21,42,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	6nsj0h2rllpr8	Mobiles	null	Lenovo	Lenovo A7000	8300.0	2016,11,30,14,17,42
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	ehdu5rkpn5b94	Mobiles	null	Lenovo	Lenovo A6000	6999.0	2016,11,30,14,16,45
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,11,28,11,03,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	f8lclh9gfjcdt	Mobiles	null	Xiaomi	Xiaomi Redmi Note 4	12999.0	2016,11,27,12,40,01
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,11,27,12,00,51
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bnd07658l3hpi	Mobiles	null	Xiaomi	Xiaomi Redmi 2	6299.0	2016,11,27,12,42,35
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5bbd2lsavdmtf	Mobiles	null	Xiaomi	Redmi Note 4G	8999.0	2016,11,27,12,39,21
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dg5s3h1r8kq80	Mobiles	null	Gionee	Gionee P7 Max	13700.0	2016,11,26,09,33,40
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dg5s3h1r8kq80	Mobiles	null	Gionee	Gionee P7 Max	13700.0	2016,11,26,09,34,09
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	agi5qtlpt6md9	Mobiles	null	Lenovo	Lenovo K3 Note	7998.0	2016,11,22,20,19,33
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	f83h1h1hqgqao	null	null	Samsung	Samsung Galaxy J	9690.0	2016,11,22,06,34,39
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dk90hgob8jb3d	Mobiles	null	Samsung	Samsung Galaxy On7 Pro	9990.0	2016,11,22,06,37,13
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	7ms63keaku625	Mobiles	null	Samsung	Samsung Galaxy J3	7990.0	2016,11,22,06,29,20
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	39ujga48akttn	Mobiles	null	Lenovo	Lenovo K4 Note	10999.0	2016,11,22,20,19,12
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	841oe37a469n8	Mobiles	null	Lenovo	Lenovo Vibe K5 Note	11999.0	2016,11,22,20,18,47
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	cbkajh2d93agd	Mobiles	null	Samsung	Samsung Galaxy J2 (2016)	7590.0	2016,11,22,06,34,15
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	cbkajh2d93agd	Mobiles	null	Samsung	Samsung Galaxy J2 (2016)	7590.0	2016,11,22,06,30,20
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	cig5om6ueres2	Mobiles	null	Samsung	Samsung Galaxy On5 Pro	7990.0	2016,11,22,06,36,19
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dv064frkt03h5	Mobiles	null	Samsung	Samsung Galaxy J1 (2016)	5849.0	2016,11,22,06,34,50
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	8ijk1rqe1sej8	Mobiles	null	Lenovo	Lenovo Vibe K5 Note 32GB 3GB RAM	11999.0	2016,11,22,20,18,28
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3qn8tt6777h0v	null	null	Lenovo	Lenovo K5 Note	15992.0	2016,11,22,20,18,41
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bfkok2o0aa5ah	Mobiles	null	Mi	Redmi 3S 16 GB	8175.0	2016,12,26,12,24,12
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bfkok2o0aa5ah	Mobiles	null	Mi	Redmi 3S 16 GB	8175.0	2016,12,26,12,23,34
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	fo2f7pk378kt7	Mobiles	null	Lenovo	Lenovo K6	11999.0	2016,12,25,14,42,32
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4uijve5vna97r	Mobiles	null	Lenovo	Lenovo K6 Power	11999.0	2016,12,25,14,41,54
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	22dv3qhlj9gjp	Mobiles	null	XOLO	Xolo Era 2	4499.0	2016,12,22,07,46,37
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	f8lclh9gfjcdt	Mobiles	null	Xiaomi	Xiaomi Redmi Note 4	12999.0	2016,12,22,07,44,41
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,12,22,07,45,24
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	89sinp9dh2onb	Mobiles	null	LYF	Lyf Water 2	9499.0	2016,12,20,16,50,18
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5g9fhbd0434kb	Mobiles	null	LYF	Lyf Flame 1	4399.0	2016,12,20,16,49,18
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	377om73gm85cr	Mobiles	null	Samsung	Samsung Z2	4590.0	2016,12,20,16,47,42
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dolsec9gsah0t	Home & Kitchen	null	Philips	Philips Viva Collection HR1863/20 2-Litre Juicer	6959.0	2016,12,20,16,46,50
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2oc4vu9b9husr	Mobiles	null	LYF	Lyf Flame 8	3849.0	2016,12,20,16,51,53
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	89sinp9dh2onb	Mobiles	null	LYF	Lyf Water 2	9499.0	2016,12,20,16,50,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3or8jhpmogp6r	Mobiles	null	Samsung	Samsung Galaxy S7 Edge	50900.0	2016,12,02,21,13,36
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	69qjjtprcknqr	Mobiles	null	Xiaomi	Xiaomi Mi 4i	9499.0	2016,12,08,22,19,04
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	6kvr2ift65nmt	Mobiles	null	Xiaomi	Redmi Note Prime	8499.0	2016,12,02,21,09,25
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,08,22,28,07
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	c5ahd0et7one8	Mobiles	null	Samsung	Samsung On5	7499.0	2016,12,08,22,23,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2016,12,11,07,11,52
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	69qjjtprcknqr	Mobiles	null	Xiaomi	Xiaomi Mi 4i	9499.0	2016,12,08,22,18,49
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	1bemqg8unr5h5	Mobiles	null	Samsung	Samsung Galaxy S4	11333.0	2016,12,02,21,15,19
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5g4v39otuqheb	Mobiles	null	Samsung	Samsung Galaxy J5	10490.0	2016,12,02,21,17,24
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5tfkqb7q9uj2o	Mobiles	null	LYF	LYF FLAME 7	3499.0	2016,12,07,16,51,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	dbmmnl2bup50n	Mobiles	null	Samsung	Samsung Galaxy Note 4	36900.0	2016,12,02,21,10,13
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,07,17,01,11
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	fs5i3qkv1nkdi	Mobiles	null	Samsung	Samsung On7 Pro	9990.0	2016,12,02,21,14,40
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	b8aiccjfmhjm5	Mobiles	null	Xiaomi	Redmi Note3	9999.0	2016,12,07,20,57,39
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5g4v39otuqheb	Mobiles	null	Samsung	Samsung Galaxy J5	10490.0	2016,12,02,21,17,42
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3or8jhpmogp6r	Mobiles	null	Samsung	Samsung Galaxy S7 Edge	50900.0	2016,12,02,21,13,46
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	b2matj3o0beer	Mobiles	null	null	Coolpad Note 3 Lite	8799.0	2016,12,11,07,12,03
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,09,20,46,15
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2016,12,11,07,09,48
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bnd07658l3hpi	Mobiles	null	Xiaomi	Xiaomi Redmi 2	6299.0	2016,12,08,22,26,50
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,12,09,20,44,23
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	ajoaa2bdhqj7	Mobiles	null	Plus	Coolpad Note 3 Plus	8999.0	2016,12,11,07,12,29
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	22o76pcrugpaf	Mobiles	null	XOLO	Xolo Era 1X	4999.0	2016,11,30,17,02,14
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2ton7psfbh0mt	Mobiles	null	XOLO	XOLO ERA X	5999.0	2016,11,30,17,00,42
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,13,08,09,13
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bnd07658l3hpi	Mobiles	null	Xiaomi	Xiaomi Redmi 2	6299.0	2016,12,13,08,06,47
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	52q9fkgr1phok	Mobiles	null	Mi	Redmi 2 Prime	6999.0	2016,12,13,08,08,02
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2oc4vu9b9husr	Mobiles	null	LYF	Lyf Flame 8	3849.0	2016,12,01,10,20,52
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2016,12,13,08,08,54
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	bnd07658l3hpi	Mobiles	null	Xiaomi	Xiaomi Redmi 2	6299.0	2016,12,13,08,07,45
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	pkcvpdua0suj	Mobiles	null	XOLO	Xolo Era X 8gb Black 4g	5499.0	2016,11,30,17,02,29
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	52q9fkgr1phok	Mobiles	null	Mi	Redmi 2 Prime	6999.0	2016,12,13,08,08,11
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	8ofps68bvd0qh	Mobiles	null	LYF	Lyf Flame 5	2990.0	2016,01,01,19,06,44
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	3ketlgfq4789	Mobiles	null	LYF	Lyf Wind 4	6699.0	2016,01,01,19,05,25
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	ap0o3jbrinv0f	Mobiles	null	Samsung	Samsung Galaxy J7 Prime	16799.0	2016,12,28,12,14,14
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	5ettnikuvd9vs	Mobiles	null	HTC	Htc Desire 628	11199.0	2016,12,28,12,17,35
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	fjkfov3uoansn	Mobiles	null	Coolpad	Coolpad Mega 2 5D	6999.0	2017,01,12,22,46,15
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	b2matj3o0beer	Mobiles	null	null	Coolpad Note 3 Lite	8799.0	2017,01,12,22,42,57
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	ajoaa2bdhqj7	Mobiles	null	Plus	Coolpad Note 3 Plus	8999.0	2017,01,12,22,43,43
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	7er4l5fteejgr	Mobiles	null	null	Coolpad Note 3 Lite 16gb	7999.0	2017,01,12,22,45,00
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2017,01,12,22,41,27
+scusr-45800883-24fc-4f21-be27-858ec246daee	deal	18mbiko47s678	null	unknown	null	Amazon Great Indian Festival	399.0	2016,10,25,16,41,30
+scusr-45800883-24fc-4f21-be27-858ec246daee	product	fjkfov3uoansn	Mobiles	null	Coolpad	Coolpad Mega 2 5D	6999.0	2017,01,12,22,46,22
+scusr-45800883-24fc-4f21-be27-858ec246daee	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2017,02,02,19,52,57
+scusr-45800883-24fc-4f21-be27-858ec246daee	listing	az_cvc2k37j1jg97	Mobiles	null	YU	YU Yureka Plus on Android (White)	7221.0	2016,12,14,21,57,19
+scusr-99841be4-e0a6-4cba-a700-e45ea3f966ed	product	cahigd93ma440	Mobiles	null	Motorola	Moto G Plus 4th Gen	13499.0	2016,12,13,22,50,43
+scusr-99841be4-e0a6-4cba-a700-e45ea3f966ed	product	2l92e7kec3ots	Mobiles	null	Mi	Xiaomi Redmi 3S Prime	10499.0	2016,12,13,22,51,36
+scusr-99841be4-e0a6-4cba-a700-e45ea3f966ed	product	cahigd93ma440	Mobiles	null	Motorola	Moto G Plus 4th Gen	13499.0	2016,12,13,22,52,07
+scusr-99841be4-e0a6-4cba-a700-e45ea3f966ed	product	4fang8rn0m9vg	Mobiles	null	Google	Google Pixel XL	59000.0	2016,12,13,22,50,11
+scusr-99841be4-e0a6-4cba-a700-e45ea3f966ed	product	2l92e7kec3ots	Mobiles	null	Mi	Xiaomi Redmi 3S Prime	10499.0	2016,12,13,22,51,56
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	52e9qccmbr3a5	Mobiles	null	Samsung	Samsung Micro SD 32GB	565.0	2016,12,14,11,40,36
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	1dbshu1msebpk	null	null	Maharaja Whiteline	Maharaja Whiteline Classico15 15-Litre Water Heater	3959.0	2016,12,14,11,36,19
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	4u2l6ut2uba8u	null	null	Orient	Orient WS2502M Water Geyser	5159.0	2016,12,14,11,34,14
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	52e9qccmbr3a5	Mobiles	null	Samsung	Samsung Micro SD 32GB	565.0	2016,12,14,11,40,36
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	1dbshu1msebpk	null	null	Maharaja Whiteline	Maharaja Whiteline Classico15 15-Litre Water Heater	3959.0	2016,12,14,11,36,19
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	4u2l6ut2uba8u	null	null	Orient	Orient WS2502M Water Geyser	5159.0	2016,12,14,11,34,14
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	4vo5b5ept7n2e	null	null	Hiper Song	Hiper Song 111	0.0	2017,10,24,12,08,19
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	product	c5u10f4t4doet	Electronics	null	Seagate	Hdd Seagate Ide 160Gb	780.0	2016,12,21,13,01,20
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	deal	5j8f0uf0l1nei	null	electronics	null	Personal Care Appliances	180.0	2016,11,29,09,38,58
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	deal	5j8f0uf0l1nei	null	electronics	null	Personal Care Appliances	180.0	2016,11,13,21,32,48
+scusr-6f3a87b1-c8f3-4ec8-8e07-2e0f1fb6eb58	deal	92ev3iu5lb2mv	null	electronics	null	Get Upto 450 Back*  	289.0	2016,12,28,21,03,46
+scusr-2fa562e5-5acf-4af8-8acb-7898a70a53ca	product	8d54n8uhlouaq	Home & Kitchen	null	Philips	Philips HR 7627 650 W Food Processor	3679.0	2016,12,14,15,03,40
+scusr-2fa562e5-5acf-4af8-8acb-7898a70a53ca	product	3gv3fqn4rsg2c	Home & Kitchen	null	Eureka Forbes	Eureka Forbes Trendy Nano Vacuum Cleaner	2863.0	2016,12,14,15,03,40
+scusr-2fa562e5-5acf-4af8-8acb-7898a70a53ca	product	8d54n8uhlouaq	Home & Kitchen	null	Philips	Philips HR 7627 650 W Food Processor	3679.0	2016,12,14,15,03,40
+scusr-2fa562e5-5acf-4af8-8acb-7898a70a53ca	product	dovhvja5es329	Electronics	null	Sony	Sony KLV-32R512C 81 28 cm (32) LED TV (WXGA)	30425.0	2016,12,10,22,57,44
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	product	a5rmb6s02ihut	Mobiles	null	Oppo	Oppo F1	15900.0	2016,12,15,08,10,10
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	product	d90n2gsabtle4	Mobiles	null	Samsung	Samsung Galaxy J2 Pro	9490.0	2016,12,15,08,14,44
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	product	d90n2gsabtle4	Mobiles	null	Samsung	Samsung Galaxy J2 Pro	9490.0	2016,12,16,15,04,13
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	product	a5rmb6s02ihut	Mobiles	null	Oppo	Oppo F1	15900.0	2016,12,15,08,10,10
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	product	d90n2gsabtle4	Mobiles	null	Samsung	Samsung Galaxy J2 Pro	9490.0	2016,12,15,08,14,44
+scusr-9a0c2477-8b1f-4d74-bf78-bd92b16c6f83	listing	sd_1dm4g0l2oqvmg	null	null	Model Car	Model Car Blue Electronic Handheld Tv Game	949.0	2016,12,15,08,26,51
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	product	b77vvq61gvstm	Electronics	null	Sony	Sony Cybershot W810 Point & Shoot Digital Camera	7300.0	2016,12,14,08,34,29
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	product	b77vvq61gvstm	Electronics	null	Sony	Sony Cybershot W810 Point & Shoot Digital Camera	7300.0	2016,12,16,11,27,29
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	product	b77vvq61gvstm	Electronics	null	Sony	Sony Cybershot W810 Point & Shoot Digital Camera	7300.0	2016,12,14,08,34,29
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	deal	2uq7bu4aboac2	Men's Fashion	men clothing	null	Flat 40-80%OFF on Biggest Brands!	109.0	2016,12,14,08,33,15
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	deal	3eumh7n3gaptm	null	mobile & accessories	null	Accessorize Your Phone!	59.0	2016,12,13,08,47,18
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	listing	sd_dn12m84ljb8vu	Men's Fashion	null	Sparx	Sparx Red Floater Sandals	749.0	2016,12,21,09,25,53
+scusr-779bf9d4-9d2b-402a-8c22-daeebe802796	listing	sd_dn12m84ljb8vu	Men's Fashion	null	Sparx	Sparx Red Floater Sandals	749.0	2016,12,21,09,25,28
+scusr-e99f833c-8ce9-47d6-b684-d3864a8e1fc0	deal	f5gji7v3jk6fq	null	fashion accessories	null	Upto 50% Off On Watches	308.0	2016,11,15,18,01,29
+scusr-e99f833c-8ce9-47d6-b684-d3864a8e1fc0	listing	az_2ricu3jhut6f2	Electronics	null	Seagate	Seagate Barracuda 250GB Desktop SATA Internal Hard Drive	1103.1500244140625	2016,12,14,01,25,20
+scusr-6c33afbe-bb8e-4fea-a41e-b38ddb71d59a	listing	fk_99hrt1q48hc7h	null	null	Head & Shoulders	Head & Shoulders Smooth & Silky Shampoo(340 ml)	200.0	2016,12,15,00,18,00
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2016,12,14,20,30,37
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	8gskranu8q0ig	Men's Fashion	men clothing	null	Min 50% Off On Men's Clothing	999.0	2016,12,16,12,41,57
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	37fcpfiol1a4j	null	unknown	null	Super Deals Of The Day!	259.0	2017,10,27,22,25,09
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	18mbiko47s678	null	unknown	null	Amazon Great Indian Festival	399.0	2016,10,25,16,59,16
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	2trsvjj3ibo3n	null	mobile & accessories	null	Best Sellers Of 2016	799.0	2016,12,23,08,49,41
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	dnjub15l94gks	null	mobile & accessories	null	Crazy Deals On Mobiles 	7499.0	2016,12,20,12,29,59
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	deal	el2b95380pe3j	null	home	null	Best Of Home & Kitchen!	220.0	2017,02,01,09,30,44
+scusr-383cf035-9f57-4314-9d3e-a8485ffe731e	listing	jb_cp2vjofspge7e	Women's Fashion	null	Colorbar	Colorbar Orange Sunshine Makeup Kit	1050.0	2016,12,14,20,31,37
+scusr-ca629ce3-1084-4705-b8eb-5729194875f1	listing	fk_7afj1u637cjh3	Women's Fashion	null	Glam Quotient	Glam Quotient Self Design Babydoll	539.0	2016,12,13,19,42,38
+scusr-c18b371f-cd7e-4ec8-bb07-4122760d9446	listing	az_2mh4dc8fi07n6	null	null	PATANJALI	Patanjali Neem Aloevera With Cucumber Face Pack	110.0	2016,12,14,16,19,38
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6kdsr193k8l2u	Mobiles	null	Samsung	Samsung Galaxy Tab A SM-T355YZWA Tablet 8 inch (20 32 cm) 16 GB,	16500.0	2016,12,21,21,25,47
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3936hllhtsf5a	Mobiles	null	Samsung	Samsung Galaxy Tab 4 T331	5467.0	2016,12,21,21,27,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	76eflspnakj8e	Mobiles	null	Sony Ericsson	Sony Ericsson S312	3765.0	2016,12,21,07,47,33
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5hj55cn0amlo4	Mobiles	null	Nokia	Nokia 2690	2028.0	2016,12,21,07,54,52
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7pc46ibs6mngd	Mobiles	null	Sony Ericsson	Sony Ericsson W205	0.0	2016,12,21,07,48,33
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	f266etv29essm	Mobiles	null	Nokia	New Nokia 1280 - Grey Mobile Phone	999.0	2016,12,21,10,34,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5hj55cn0amlo4	Mobiles	null	Nokia	Nokia 2690	2028.0	2016,12,21,07,52,08
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	21h0s8ns95cl4	Mobiles	null	Nokia	Nokia 1203	720.0	2016,12,21,07,54,42
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1cof3843su9lp	Mobiles	null	Sony Ericsson	Sony Ericsson Xperia Neo V	7990.0	2016,12,08,13,43,43
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7bb30qefccj11	Mobiles	null	Sony Ericsson	Sony Ericsson T700	0.0	2016,12,08,16,45,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	cgg53sst1mlnb	Mobiles	null	Sony Ericsson	Sony Ericsson Naite J105i	5929.0	2016,12,08,13,46,37
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	dcc96ekjpnl07	Mobiles	null	Sony Ericsson	Sony Ericsson Zylo	3499.0	2016,12,08,13,45,26
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	4hvfq7tjgk949	Mobiles	null	Sony Ericsson	Sony Ericsson W580i(Style White)	5970.0	2016,12,08,13,46,56
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1cof3843su9lp	Mobiles	null	Sony Ericsson	Sony Ericsson Xperia Neo V	7990.0	2016,12,08,13,44,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	f8qkv7raan1p1	Mobiles	null	Sony Ericsson	Sony Ericsson Hazel	8582.0	2016,12,08,13,45,42
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7bb30qefccj11	Mobiles	null	Sony Ericsson	Sony Ericsson T700	0.0	2016,12,08,13,49,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	d1f1ouvgqhdsf	Mobiles	null	Sony Ericsson	Sony Ericsson Naite (Black)	5329.0	2016,12,08,13,45,06
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3br6c4vm8pt	Mobiles	null	Sony Ericsson	Sony Ericsson Active ST17i	16999.0	2016,12,08,13,47,04
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5j47jdekrg1d	Mobiles	null	Sony Ericsson	Sony Ericsson Elm	7289.0	2016,12,08,13,44,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2h26kls88p1vq	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Pureness	31090.0	2016,12,08,13,44,41
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	45baf8mmco3hv	Mobiles	null	Strontium	Strontium 64GB Nitro MicroSD Card	1325.0	2016,12,31,13,58,54
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2016,12,26,21,46,06
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2017,01,06,13,24,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,01,14,13,20,54
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,06,47
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	djdr044f6ktaf	Mobiles	null	Sony	Sony Xperia SL	19990.0	2017,02,01,01,03,05
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5p9pijgufiqsn	Mobiles	null	Sony	Sony Xperia C3	16900.0	2017,02,01,01,00,15
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	rf3fek3scptq	Mobiles	null	Sony	Sony Xperia T3	14634.0	2017,02,01,13,40,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5p9pijgufiqsn	Mobiles	null	Sony	Sony Xperia C3	16900.0	2017,02,01,09,06,31
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	cn4q1v427lrcd	Mobiles	null	Sony	Sony Xperia Z Purple (Seller Warranty)	18990.0	2017,02,01,01,04,44
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	f2kvnuvqkhkjr	Mobiles	null	Sony	Sony Xperia SP Combo	24164.0	2017,02,01,13,40,41
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,13,01
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,01,01,06,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	djdr044f6ktaf	Mobiles	null	Sony	Sony Xperia SL	19990.0	2017,02,01,09,14,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6gvko5f7c29ib	Mobiles	null	Sony	Sony Xperia C4 Dual	21186.0	2017,02,01,09,09,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6gvko5f7c29ib	Mobiles	null	Sony	Sony Xperia C4 Dual	21186.0	2017,02,01,09,09,49
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	25c5dfurdel4e	Mobiles	null	Sony	Sony Xperia Z Ultra (Black)	18490.0	2017,02,01,01,03,53
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	civns1ti400ht	Mobiles	null	Sony Ericsson	Sony Ericsson Xperia Play	18400.0	2017,02,01,09,11,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6korj0v9o652c	Mobiles	null	Sony	Sony Xperia UL	18149.0	2017,02,01,09,15,35
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	rf3fek3scptq	Mobiles	null	Sony	Sony Xperia T3	14634.0	2017,02,01,13,40,11
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	rf3fek3scptq	Mobiles	null	Sony	Sony Xperia T3	14634.0	2017,02,01,01,01,08
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,01,09,10,35
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	djdr044f6ktaf	Mobiles	null	Sony	Sony Xperia SL	19990.0	2017,02,01,09,18,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	f2kvnuvqkhkjr	Mobiles	null	Sony	Sony Xperia SP Combo	24164.0	2017,02,01,13,40,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2au9123cs3hac	Mobiles	null	Sony	Sony Xperia T2 Ultra Dual, white	18449.0	2017,02,01,01,02,15
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,16,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6korj0v9o652c	Mobiles	null	Sony	Sony Xperia UL	18149.0	2017,02,01,01,03,34
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	f2kvnuvqkhkjr	Mobiles	null	Sony	Sony Xperia SP Combo	24164.0	2017,02,01,09,14,17
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	benlg7ciohnpi	Mobiles	null	Sony	Sony Xperia X Dual 64gb	29990.0	2017,02,02,07,50,13
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	20vlj1plqqhl6	Home & Kitchen	null	Pureit	Pureit New Classic Ro + MF 6 L RO Water Purifier	7999.0	2017,02,02,14,24,07
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,02,07,31,46
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	9raiq1phhbd37	Mobiles	null	Sony	Sony Xperia ZL	26990.0	2017,02,02,07,47,44
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	19rp0r9907eat	Mobiles	null	OnePlus	OnePlus 3T 128 GB	29999.0	2017,02,01,22,27,09
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	4i91aqt8p2jb	Mobiles	null	Sony	Sony Xperia S LT26i	24699.0	2017,02,02,07,43,38
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	amp313o68kthf	Mobiles	null	Sony	Sony Xperia Z3-White (Seller warranty)	28990.0	2017,02,02,07,37,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	9un0mva4io7h2	Mobiles	null	Vivo	Vivo Y51L	9335.0	2017,02,01,22,20,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7ojje855aggpa	Electronics	null	TVS-e	TVS-e Gold Bharat USB 2 0 Keyboard	2400.0	2017,02,02,11,27,34
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6qh3jbl7pp5rs	null	null	Sony	Sony Xperia XA	15800.0	2017,02,02,07,34,09
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	dq5bg91kapmmt	Mobiles	null	Sony	Xperia C5 Ultra	28999.0	2017,02,02,07,47,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,02,08,08,31
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	euhf2ugd7tr9q	Mobiles	null	Motorola	Moto G Turbo	9799.0	2017,02,01,22,11,01
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7ojje855aggpa	Electronics	null	TVS-e	TVS-e Gold Bharat USB 2 0 Keyboard	2400.0	2017,02,02,11,27,36
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	58ovssuhifbhk	Mobiles	null	Sony	Sony Xperia Z5 Dual	34990.0	2017,02,02,07,45,03
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	19aq512aoun1r	Mobiles	null	OnePlus	OnePlus 2	19999.0	2017,02,02,11,26,38
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	46ml80vpr406g	Mobiles	null	Sony	Sony Xperia Z3 Tablet Compact	50634.0	2017,02,02,07,50,19
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	19aq512aoun1r	Mobiles	null	OnePlus	OnePlus 2	19999.0	2017,02,02,11,28,01
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	19rp0r9907eat	Mobiles	null	OnePlus	OnePlus 3T 128 GB	29999.0	2017,02,02,11,27,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2au9123cs3hac	Mobiles	null	Sony	Sony Xperia T2 Ultra Dual, white	18449.0	2017,02,02,07,44,13
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	207ghhinsbtnp	Mobiles	null	Sony	Sony Xperia C5 Ultra	28999.0	2017,02,02,07,48,15
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	4i91aqt8p2jb	Mobiles	null	Sony	Sony Xperia S LT26i	24699.0	2017,02,02,07,39,37
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2cmc7c0rsinut	Mobiles	null	Vivo	Vivo V5	15990.0	2017,02,01,22,22,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,02,07,46,30
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5p9pijgufiqsn	Mobiles	null	Sony	Sony Xperia C3	16900.0	2017,02,02,07,34,47
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	210adgrec65tm	Mobiles	null	Sony	Sony Xperia Z3+	24390.0	2017,02,02,07,46,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	benlg7ciohnpi	Mobiles	null	Sony	Sony Xperia X Dual 64gb	29990.0	2017,02,02,07,40,03
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,02,07,38,59
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	8i1f0ohq01rh2	Mobiles	null	Sony	Sony Ericsson Xperia lon LT28h	20489.0	2017,02,02,07,50,03
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	e5n0e666cto2b	null	null	OnePlus	OnePlus 3T 64 GB	29999.0	2017,02,02,11,27,23
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	amp313o68kthf	Mobiles	null	Sony	Sony Xperia Z3-White (Seller warranty)	28990.0	2017,02,02,07,49,09
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2au9123cs3hac	Mobiles	null	Sony	Sony Xperia T2 Ultra Dual, white	18449.0	2017,02,02,07,37,12
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	44ji1vcivmj7p	Mobiles	null	Sony	Sony Xperia ZR	20857.0	2017,02,02,07,48,48
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	ak1l9uf6qhagh	Mobiles	null	Sony	Sony Xperia Z Mobile - Black	28414.0	2017,02,02,07,41,05
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	19rp0r9907eat	Mobiles	null	OnePlus	OnePlus 3T 128 GB	29999.0	2017,02,01,22,27,35
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1ps78g233tr9a	Mobiles	null	OnePlus	OnePlus 3	27999.0	2017,02,02,11,26,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,02,07,43,01
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5p9pijgufiqsn	Mobiles	null	Sony	Sony Xperia C3	16900.0	2017,02,02,07,35,28
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,02,08,11,50
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2017,02,03,07,39,57
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,02,03,07,38,05
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7vsvlv655b9ad	Mobiles	null	OnePlus	OnePlus One 64GB	13269.0	2017,02,03,07,38,31
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,02,03,07,38,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2l92e7kec3ots	Mobiles	null	Mi	Xiaomi Redmi 3S Prime	10499.0	2017,02,03,07,39,04
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	7vsvlv655b9ad	Mobiles	null	OnePlus	OnePlus One 64GB	13269.0	2017,02,03,07,37,36
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ho22dv4005uf	Mobiles	null	Mi	Redmi 3S Prime 32 GB	10290.0	2017,02,03,07,39,52
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2v7t1h49n8lmn	Mobiles	null	Mi	Xiaomi Redmi 3S	10499.0	2017,02,03,08,14,23
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,02,03,07,36,53
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1ilhcae7phkqr	Electronics	null	Micromax	Micromax Canvas Lapbook L1160	9990.0	2017,02,07,18,39,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2ujgub7o8j8fd	Electronics	null	Acer	Acer One 10 S1001-19p0 NT G86SI 002 Intel Atom Quad Core - (2 GB DDR3/32 GB EMMC HDD/Windows 10/Touch) 2 in 1	10251.0	2017,02,07,18,38,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1ilhcae7phkqr	Electronics	null	Micromax	Micromax Canvas Lapbook L1160	9990.0	2017,02,08,08,10,43
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	ajoaa2bdhqj7	Mobiles	null	Plus	Coolpad Note 3 Plus	8999.0	2017,02,08,09,09,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aig0caa4ueb9k	Mobiles	null	Lenovo	Lenovo Vibe K5 Plus	8499.0	2017,02,08,08,19,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aaesbrips3k78	Mobiles	null	Mi	Xiaomi Redmi Note 3 32GB	10799.0	2017,02,09,08,18,50
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aig0caa4ueb9k	Mobiles	null	Lenovo	Lenovo Vibe K5 Plus	8499.0	2017,02,09,08,17,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,14,08,41,44
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	8ggk3iqrckrtf	Electronics	null	Link+	Link+ Sony Xperia XA Ultra Dual Compatible Rechargeable Bluetooth Speaker	275.0	2017,02,14,08,41,27
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	25c5dfurdel4e	Mobiles	null	Sony	Sony Xperia Z Ultra (Black)	18490.0	2017,02,14,08,47,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	25c5dfurdel4e	Mobiles	null	Sony	Sony Xperia Z Ultra (Black)	18490.0	2017,02,14,08,43,19
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,14,08,45,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,07,26,31
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3vu929sg4t4hc	Mobiles	null	Samsung	Samsung Galaxy C9 Pro	36900.0	2017,02,15,07,19,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,12,33,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3vu929sg4t4hc	Mobiles	null	Samsung	Samsung Galaxy C9 Pro	36900.0	2017,02,15,12,25,45
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2fjvfpb5fpqvf	Mobiles	null	Sony	Sony Xperia XZ	46000.0	2017,02,15,07,54,35
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	324eiq7qks6o3	Mobiles	null	Mi	Mi 5	20999.0	2017,02,15,07,19,42
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,07,25,17
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3vu929sg4t4hc	Mobiles	null	Samsung	Samsung Galaxy C9 Pro	36900.0	2017,02,15,07,56,03
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,07,20,07
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	58j6h4l2bsfl6	Mobiles	null	samsung note 7	Samsung Galaxy Note 5 64 GB	0.0	2017,02,15,07,18,14
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	324eiq7qks6o3	Mobiles	null	Mi	Mi 5	20999.0	2017,02,15,07,16,24
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3jpt331q5tf7s	Mobiles	null	Sony	Sony Xperia C5 Ultra Dual	24990.0	2017,02,15,00,40,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,16,12,09,06
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	dq5bg91kapmmt	Mobiles	null	Sony	Xperia C5 Ultra	28999.0	2017,02,16,12,07,39
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,16,06,43,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	4i91aqt8p2jb	Mobiles	null	Sony	Sony Xperia S LT26i	24699.0	2017,02,16,12,08,33
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	5p9pijgufiqsn	Mobiles	null	Sony	Sony Xperia C3	16900.0	2017,02,16,12,06,02
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	44ji1vcivmj7p	Mobiles	null	Sony	Sony Xperia ZR	20857.0	2017,02,16,12,06,39
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6gvko5f7c29ib	Mobiles	null	Sony	Sony Xperia C4 Dual	21186.0	2017,02,16,12,06,57
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	207ghhinsbtnp	Mobiles	null	Sony	Sony Xperia C5 Ultra	28999.0	2017,02,16,12,08,10
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fu0l9ql7qm1qf	null	null	Xiaomi	Xiaomi+Mi+Mix	75450.0	2017,02,16,23,21,48
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	cae9in2e45a1b	Mobiles	null	iBall	IBall+Slider	6499.0	2017,02,16,23,44,42
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2g9gtlo9jacab	null	null	Philips	Philips+HP8112%2F00+Hair+Dryer	1095.0	2017,02,16,23,49,11
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,17,06,57,06
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3krpr3ogmjttk	Mobiles	null	Obi	Obi+Worldphone+SF1	11999.0	2017,02,17,08,00,09
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6gvko5f7c29ib	Mobiles	null	Sony	Sony Xperia C4 Dual	21186.0	2017,02,17,08,13,54
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	5ruheu19fuhd0	Mobiles	unknown	null	SAMSUNG Galaxy On8- Extra 1000 Off	15400.0	2016,11,12,20,23,20
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2016,12,26,21,46,28
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2016,12,26,21,53,55
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2017,01,06,13,25,18
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2017,01,06,13,41,23
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	fvr38u6qejpck	Mobiles	null	Micromax	Micromax X44 Bling	2030.0	2017,01,06,13,41,47
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,01,14,13,21,34
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,01,14,13,21,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	6ms2dghgg7plc	Mobiles	null	OnePlus	OnePlus One	14899.0	2017,01,14,13,23,38
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	8skomvhc8r1fm	null	null	null	oneplusone	0.0	2017,01,19,08,58,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	8skomvhc8r1fm	null	null	null	oneplusone	0.0	2017,01,19,09,03,22
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,22,14,35,55
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,22,14,36,51
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,22,14,36,54
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	e0apg3lrghphe	null	null	null	puma-wallets-upto-88-off-from-rs-159-10-cashback-with-airtel-money	0.0	2017,01,22,14,38,32
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	e0apg3lrghphe	null	null	null	puma-wallets-upto-88-off-from-rs-159-10-cashback-with-airtel-money	0.0	2017,01,22,14,40,19
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	6a5s1kcbnquh8	null	null	null	india-s-largest-beauty-store	0.0	2017,01,23,00,29,23
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	deal	6a5s1kcbnquh8	null	null	null	india-s-largest-beauty-store	0.0	2017,01,23,00,32,34
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,01,01,06,44
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,01,01,11,35
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,08,08
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	civns1ti400ht	Mobiles	null	Sony Ericsson	Sony Ericsson Xperia Play	18400.0	2017,02,01,09,11,55
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,13,30
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,13,50
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,13,56
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,14,01
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3t7sp6n0pd0c4	Mobiles	null	Sony Ericsson	Sony Ericsson XPERIA Arc	18499.0	2017,02,01,09,14,05
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,16,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,17,29
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,17,43
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,01,09,17,56
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2cmc7c0rsinut	Mobiles	null	Vivo	Vivo V5	15990.0	2017,02,01,22,22,31
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2cmc7c0rsinut	Mobiles	null	Vivo	Vivo V5	15990.0	2017,02,01,22,24,41
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	2cmc7c0rsinut	Mobiles	null	Vivo	Vivo V5	15990.0	2017,02,01,22,25,26
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	am4r8ege7jo11	null	null	Sony	Sony Xperia XA Dual	15590.0	2017,02,02,08,09,14
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	1ilhcae7phkqr	Electronics	null	Micromax	Micromax Canvas Lapbook L1160	9990.0	2017,02,07,18,39,39
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aig0caa4ueb9k	Mobiles	null	Lenovo	Lenovo Vibe K5 Plus	8499.0	2017,02,08,08,19,59
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aig0caa4ueb9k	Mobiles	null	Lenovo	Lenovo Vibe K5 Plus	8499.0	2017,02,08,08,35,41
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	ajoaa2bdhqj7	Mobiles	null	Plus	Coolpad Note 3 Plus	8999.0	2017,02,08,09,09,29
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	aaesbrips3k78	Mobiles	null	Mi	Xiaomi Redmi Note 3 32GB	10799.0	2017,02,09,08,19,34
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	25c5dfurdel4e	Mobiles	null	Sony	Sony Xperia Z Ultra (Black)	18490.0	2017,02,14,08,47,56
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	25c5dfurdel4e	Mobiles	null	Sony	Sony Xperia Z Ultra (Black)	18490.0	2017,02,14,08,49,47
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3jpt331q5tf7s	Mobiles	null	Sony	Sony Xperia C5 Ultra Dual	24990.0	2017,02,15,00,40,40
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,00,33,43
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3fn16v112on6r	Mobiles	null	Sony	Sony Xperia XA Ultra	19895.0	2017,02,15,00,35,45
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3krpr3ogmjttk	Mobiles	null	Obi	Obi+Worldphone+SF1	11999.0	2017,02,17,08,00,57
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3krpr3ogmjttk	Mobiles	null	Obi	Obi+Worldphone+SF1	11999.0	2017,02,17,08,01,45
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	product	3krpr3ogmjttk	Mobiles	null	Obi	Obi+Worldphone+SF1	11999.0	2017,02,17,08,04,12
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sd_5b946b85133j6	null	null	Glori-fyi	Glori-fyi 35 Cm Glass Floor Hookah Red	649.0	2016,12,15,13,41,58
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sd_36glt2nldn386	null	null	Hide&Sleek	Hide&Sleek Hide & Sleek Black Leather Flap Card Holder	399.0	2016,12,15,13,41,00
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sd_4aenq9j3rnln8	null	null	Vast	Vast Day Plus Night Vision Driving , Biking, Cycling , Sun Protection Wrap Around Claear Transparent Sunglasees	395.0	2016,12,15,13,46,52
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sd_2lktk9upu5tsu	Men's Fashion	null	Sonata	Sonata 7921pp12 Men's Watch	650.0	2017,11,01,08,10,15
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sd_4nq4dp5beffmv	Men's Fashion	null	Skmei	Skmei Trendy Casual Analog & Digital Ceramic Quartz Men Watch - 5 Atm	634.0	2017,11,01,08,04,55
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sc_6frsgnek39o5t	Mobiles	null	null	samsung galaxy grand prime cover	350.0	2016,12,23,07,03,05
+scusr-9aec262e-9440-4dcf-99a1-8ce1273fedf3	listing	sc_4ud867cv3kv6o	Mobiles	null	Samsung	New Samsung Galaxy battery - For Grand Prime G530 - EB-BG530BBC 2600mah	470.0	2016,12,23,07,04,45
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	9ecanlmcu025i	Mobiles	null	Samsung	Samsung Tab E	15500.0	2016,12,23,00,17,41
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	9ecanlmcu025i	Mobiles	null	Samsung	Samsung Tab E	15500.0	2016,12,23,00,17,24
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	deal	2ued49b2pgv2l	Mobiles	mobile & accessories	null	Moto M	15999.0	2016,12,15,00,01,41
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	deal	ep6o1frcqbmlj	Mobiles	mobile & accessories	null	Jio 4G Mobiles Start @3399	3399.0	2017,11,03,20,38,40
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	deal	20u16vt8g5puk	null	unknown	null	Under 199 Store!	199.0	2016,12,22,08,49,17
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	deal	brs238d772gmf	null	unknown	null	Sunday Flea Market@Shopclues	25.0	2017,05,21,11,16,03
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	listing	fk_4avlpre7k0eoq	null	null	Glass	Pro Glass Tempered Glass Guard for Xiaomi Redmi 3s Prime	229.0	2016,12,15,00,03,43
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	az_3a75g8qlg3ltu	Women%27s+Fashion	null	theshopy	Theshopy+Imported+Exclusive+Collage+%2F+School+Bag+With+Malty+Pocket+%23819	1371.0	2017,03,05,21,57,32
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_5usunheu241k2	null	null	AVM	AVM+Windball-5+Cricket+Ball+-+++Size%3A+Standard%2C++Diameter%3A+6 5+cm%28Pack+of+3%2C+White%29	180.0	2017,03,15,22,21,34
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_1kuioclm7d7am	Women%27s+Fashion	null	Bersache	Bersache+Brown-330+Running+Shoes%28Brown%29	389.0	2017,03,20,20,38,14
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_7q232v4tf9g7h	Women%27s+Fashion	null	Windus	Windus+Walking+Shoes%28Blue%29	399.0	2017,03,20,20,38,43
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_4t6gq4jvnsi15	Women%27s+Fashion	null	Windus	Windus+Walking+Shoes%28Pink%29	399.0	2017,03,20,20,38,50
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_4a92j527a59la	Women%27s+Fashion	null	Niio	Niio+LB-02+Running+Shoes%28Pink%29	399.0	2017,03,20,20,39,01
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_ckkpsoo30me9p	Women%27s+Fashion	null	GreenBazar	GreenBazar+Cycling+Shoes%2C+Rock+Climbing+Shoes%2C+Running+Shoes%2C+Hockey+Shoes%2C+Walking+Shoes%28	359.0	2017,03,20,20,39,45
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_577st1fkgtb7o	Women%27s+Fashion	null	Delux+Look	Delux+Look+Badminton+Shoes%28Purple%29	439.0	2017,03,20,20,40,06
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_66pgr45gob72n	Women%27s+Fashion	null	Combit	Combit+Running+Shoes%28Multicolor%29	449.0	2017,03,20,20,40,20
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_31pvk9cr15m1u	Women%27s+Fashion	null	Combit	Combit+LJ-121-BLACK-RANI+Running+Shoes%28Black%2C+Pink%29	449.0	2017,03,20,20,40,43
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_6ij01sivsstfd	Women%27s+Fashion	null	Meetoes	Meetoes+Running+Shoes%28Multicolor%29	449.0	2017,03,20,20,40,52
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_dqun4f170h9jf	Women%27s+Fashion	null	Meetoes	Meetoes+Running+Shoes%28Pink%29	449.0	2017,03,20,20,41,07
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_4375tgvasords	Women%27s+Fashion	null	Fuel	Fuel+Walking+Shoes%28Pink%2C+Pink%29	499.0	2017,03,20,20,41,35
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	az_55s7oi9h3vkvc	Women%27s+Fashion	null	Do+Bhai	Do+Bhai+ST-18+Fabric+Workout+sports+shoes+for+Women+%2838+EU%2C+Pink%29	449.0	2017,03,20,20,41,49
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	az_evqameocbqc3l	Women%27s+Fashion	null	Do+Bhai	Do+Bhai+ST-18+Fabric+Workout+sports+shoes+for+Women+%28EU41%2C+Green%29	449.0	2017,03,20,20,41,58
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_3um0h71b9839r	Women%27s+Fashion	null	Delux+Look	Delux+Look+MAGNUM+Running+Shoes%28Blue%29	479.0	2017,03,20,20,42,31
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	az_7jn9hdrlbtecg	Women%27s+Fashion	null	Generic	Generic+Hipe+women+Sports+Synthetic+leather+shoes	489.0	2017,03,20,20,42,45
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_5qbdeds7q45ab	Women%27s+Fashion	null	Do+Bhai	Do+Bhai+Running+Shoes%28Black%29	499.0	2017,03,20,20,42,54
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_37vk2mth5tphc	Women%27s+Fashion	null	Lancer	Lancer+Running+Shoes%28Grey%2C+Pink%29	499.0	2017,03,20,20,43,05
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_eceq8ddh8df5g	Women%27s+Fashion	null	Lancer	Lancer+Running+Shoes%28Blue%2C+Pink%29	499.0	2017,03,20,20,43,11
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_37vk2mth5tphc	Women%27s+Fashion	null	Lancer	Lancer+Running+Shoes%28Grey%2C+Pink%29	499.0	2017,03,20,20,43,20
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_8lp3sbn20akj	Women%27s+Fashion	null	Windus	Windus+Walking+Shoes%28Pink%29	499.0	2017,03,20,20,43,29
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_d60ddf3do53kd	Women%27s+Fashion	null	Asian	Asian+Running+Shoes%28Black%2C+Green%29	499.0	2017,03,20,20,43,37
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_fo5dih0mo444l	Women%27s+Fashion	null	Asian	Asian+Running+Shoes%28Pink%2C+Pink%29	499.0	2017,03,20,20,43,48
+scusr-1abada4d-ed27-4745-9edb-87f159a46f80	product	fk_q8t5tb9hftv5	Women%27s+Fashion	null	Steemo	Steemo+Walking+Shoes%28Multicolor%29	499.0	2017,03,20,20,43,57
+scusr-c13f06ab-dbfc-47ef-8598-1bbe9771bf07	product	dotjblg0oibf	Electronics	null	Xodas	XODAS Keyboard-7 Inch Wired USB Tablet Keyboard	449.0	2016,12,08,12,41,01
+scusr-c13f06ab-dbfc-47ef-8598-1bbe9771bf07	product	cmhibnb426heu	Mobiles	null	null	VoxMultimedia Watch	0.0	2016,12,08,12,46,04
+scusr-c13f06ab-dbfc-47ef-8598-1bbe9771bf07	product	6khq9asff3t9r	Men's Fashion	null	Casio	Casio EX221 Edifice Analog Watch - For Men	8995.0	2016,12,08,13,09,51
+scusr-c13f06ab-dbfc-47ef-8598-1bbe9771bf07	listing	sd_khuk1aau67bq	Men's Fashion	null	Casio	Casio G272-es Multi-function G-shock Watch	6645.0	2016,12,14,15,32,17
+scusr-c13f06ab-dbfc-47ef-8598-1bbe9771bf07	listing	sd_khuk1aau67bq	Men's Fashion	null	Casio	Casio G272-es Multi-function G-shock Watch	6645.0	2016,12,08,12,44,08
+scusr-796039df-d71c-487f-9456-807e9510366e	listing	az_18j92pf829qjl	null	null	Skullcandy	Skullcandy Uproar 2 0 Gray Black	2395.0	2016,12,15,01,36,23
+scusr-796039df-d71c-487f-9456-807e9510366e	deal	4nog0jnl8dth5	Mobiles	null	null	Lenovo+K6+Power+-+Sale+Today+At+12+Noon	9999.0	2017,02,24,11,52,16
+scusr-131a5f45-bad7-43c5-aec2-1b4934ffd31c	listing	sd_46kbqhq7567ad	Women's Fashion	null	SwastikEculture	Swastikeculture Multicoloured Cotton Silk Saree	799.0	2016,12,13,16,06,59
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	dv41b6ot3o4al	null	unknown	null	Winter Care For Ur Skin!	110.0	2016,11,28,09,13,18
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	c32d447umuv5t	Women's Fashion	women clothing	null	Min  70% OFF-Top Brands!	430.0	2016,11,27,10,19,52
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	btjhse83guj29	null	unknown	null	Stock Up Your Groceries!!	120.0	2016,11,26,11,44,16
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	tekeij2nvg7p	null	unknown	null	Look Fab This Wedding Season!	279.0	2016,11,25,08,24,26
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	dv41b6ot3o4al	null	unknown	null	Winter Care For Ur Skin!	110.0	2016,11,24,08,33,55
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2016,11,23,08,37,18
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	eavu8equcntk6	null	fashion accessories	null	Trendy Footwear Under 499/-	499.0	2016,11,21,22,52,01
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	70ktptlmfcjma	null	mobile & accessories	null	Upto 90% OFF - Mobile Accessories	99.0	2016,11,19,08,26,56
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	5g2e2u525q760	null	null	null	charge-on-the-go	0.0	2016,11,18,16,32,53
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	2q9s5oeh8apt6	Men's Fashion	men clothing	null	The Great Winter Sale's Here!	99.0	2016,11,15,21,54,32
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	1fmo88ulrhcu9	null	unknown	null	Accessories Carnival @Flipkart	829.0	2016,11,14,15,02,24
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2016,11,13,16,51,47
+scusr-0133bfb2-18b6-4d65-88c1-bc713b325de0	listing	fk_85u95mr581g1h	Home & Kitchen	null	CPEX	CPEX CUM LINE TESTER Power Saver(White)	249.0	2016,12,15,01,24,56
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	a237e76n68l1r	Mobiles	null	Plus	Micromax Yu Yureka Plus	7900.0	2016,12,11,20,01,58
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	4bbm0hjqkq2qf	Electronics	null	Sony	Snony Micro Vault 16 GB Pen Drive	319.0	2016,12,11,19,45,15
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	c5gfqb8434r3k	Mobiles	null	Lenovo	Lenovo Vibe K5 Plus 3GB RAM	8499.0	2016,12,11,19,53,13
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7u3mncd5orujk	Mobiles	null	LeTv	Letv Le 1s 32gb	10999.0	2016,12,11,19,49,44
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7er4l5fteejgr	Mobiles	null	null	Coolpad Note 3 Lite 16gb	7999.0	2016,12,11,19,09,54
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	a237e76n68l1r	Mobiles	null	Plus	Micromax Yu Yureka Plus	7900.0	2016,12,11,20,01,55
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	dsuvl6l0g4hiu	Electronics	null	Vu	Vu 32d6475 80 Cm Led Television	19270.0	2016,12,11,19,09,37
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	auj41o6g1hnsh	Mobiles	null	Motorola	Moto G4 Plus	12499.0	2016,12,06,22,54,46
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	1i13c3c657rhe	Mobiles	null	null	Meizu M3S 32GB	8799.0	2016,12,30,23,48,12
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	cggugqo0hla51	Electronics	null	Kingston	Kingston Data Traveler MicroDuo 32GB Pen Drive	699.0	2016,12,30,23,36,22
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	377om73gm85cr	Mobiles	null	Samsung	Samsung Z2	4590.0	2016,12,30,23,41,13
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	dehu2cokkmaik	Mobiles	null	Samsung	Samsung SDHC 16 GB Class 6	389.0	2016,12,31,00,00,08
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	cp2p1eic50jqr	Mobiles	null	Samsung	Samsung 16 GB Micro SDHC Evo Memory Card	348.0	2016,12,30,23,46,26
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	agi5qtlpt6md9	Mobiles	null	Lenovo	Lenovo K3 Note	7998.0	2016,12,30,23,43,21
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	3gpu3s9l4tk7f	Mobiles	null	Panasonic	Panasonic Eluga Icon	9140.0	2016,12,30,23,39,32
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	4p2nch2o91pol	Electronics	null	SanDisk	iFlash Drive 32 GB Pen Drive	669.0	2016,12,30,23,38,11
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	321atv9q1s7gr	Mobiles	null	Samsung	SAMSUNG Guru Fm Plus	1399.0	2016,12,30,23,49,01
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	cao9cnenro0oa	Mobiles	null	HTC	HTC EVO 4G	2999.0	2016,12,30,23,42,20
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	l11fe3ok715t	Electronics	null	Sony	Sony 32 GB Pen Drive USM32GR	799.0	2017,01,10,22,29,24
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	fisl9k2ttq20v	Men's Fashion	null	Philips	Philips QT4001/15 Trimmer For Men	1050.0	2017,01,11,22,10,36
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	9il558trsvvlg	Mobiles	null	SanDisk	Sandisk Ultra Micro Sd 64 Gb 48 Mbps	426.0	2017,01,31,20,49,22
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	9il558trsvvlg	Mobiles	null	SanDisk	Sandisk Ultra Micro Sd 64 Gb 48 Mbps	426.0	2017,03,04,21,45,01
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	k7t9euevrc1v	Electronics	null	Sony	Sony+Micro+Vault+8+Gb+Pendrive	250.0	2017,03,12,22,07,57
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	6m6253mq7hgdd	Electronics	null	Sony	Sony+Micro+Vault+Classic+8+GB+Pen+Drive	250.0	2017,03,12,22,09,16
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	q3vtgi418kem	Electronics	null	HP	HP+V112B+8GB+PEN+DRIVE	520.0	2017,03,12,22,19,56
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	9r2jo8muuskt8	Electronics	null	SanDisk	Sandisk+8GB+USB+Cruzer+Blade	280.0	2017,03,12,22,20,00
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	6m6253mq7hgdd	Electronics	null	Sony	Sony+Micro+Vault+Classic+8+GB+Pen+Drive	250.0	2017,03,12,22,20,31
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	stqrin2toanb	Electronics	null	Sandisk	Sandisk+Cruzer+Blade+32+Gb+Pen+Drives	549.0	2017,03,12,22,21,30
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	du1iveu63b2o7	Electronics	null	Sony	Soy+Microvault+32+Gb+Pen+Drives	354.0	2017,03,12,22,32,14
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	58vt3skjsqqcg	Electronics	null	Moserbaer	Moserbaer+Knight+32+GB+Pen+Drive	599.0	2017,03,12,22,33,39
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	euj82i05tlavt	Electronics	null	Zipmem	Zipmem+32+Gb+Pen+Drives	582.0	2017,03,12,22,34,16
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	euj82i05tlavt	Electronics	null	Zipmem	Zipmem+32+Gb+Pen+Drives	582.0	2017,03,12,22,36,09
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	avjl9r8e3onjv	Electronics	null	Zipmem	Zipmem+S9+32+Gb+Pen+Drives	541.0	2017,03,12,22,41,53
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	euj82i05tlavt	Electronics	null	Zipmem	Zipmem+32+Gb+Pen+Drives	582.0	2017,03,12,22,48,06
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	4riae4d7vrhlb	Electronics	null	Lapcare	Lapcare+32+Gb+Pen+Drives	719.0	2017,03,12,22,50,50
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	f3hfi225v3p0u	Electronics	null	SanDisk	Sandisk+Cruzer+Blade+32+GB+Pen+Drive	550.0	2017,03,12,22,52,15
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	f3hfi225v3p0u	Electronics	null	SanDisk	Sandisk+Cruzer+Blade+32+GB+Pen+Drive	550.0	2017,03,12,22,53,32
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	6nora4fvphv4p	Electronics	null	Toshiba	Toshiba+USBSurBl+32+GB+Pen+Drive	699.0	2017,03,12,22,54,48
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	6i270rkn0kjvp	Electronics	null	The+Fappy+Store	The+Fappy+Store+32+Gb+Pen+Drives	580.0	2017,03,12,22,57,10
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	1pa4maluefqkp	Electronics	null	Kingston	Kingston+Datatraveler+Micro+3 1+Flash+Drive-+128+Gb	94.0	2017,03,12,22,57,59
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	bu9a7nted97q8	Electronics	null	Apacer	Apacer+AH111+16+GB+Fancy+Pendrive	99.0	2017,03,12,23,00,26
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	889h6b8jsagvq	Electronics	null	Apacer	Apacer+AH135+8GB+Pen+Drive	99.0	2017,03,12,23,01,12
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	b27iab9rmkbti	Electronics	null	Sandisk	Sandisk+CZ+15+16GB+Pen+Drive	100.0	2017,03,12,23,01,24
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	s0vi8n0tvoun	Electronics	null	SanDisk	Sandisk+Cruzer+Orbit+CZ58+8GB+Pen+Drive	100.0	2017,03,12,23,02,01
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	4116d0obrha13	Electronics	null	Adata	A-Data+Pendrive+4GB+Black+-+AC008	150.0	2017,03,12,23,02,31
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7a04erghb3qcp	Electronics	null	Lexar	Lexar+JumpDrive+S50+16+GB+Pen+Drive	299.0	2017,03,12,23,05,54
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	6m6253mq7hgdd	Electronics	null	Sony	Sony+Micro+Vault+Classic+8+GB+Pen+Drive	250.0	2017,03,12,23,07,00
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7a04erghb3qcp	Electronics	null	Lexar	Lexar+JumpDrive+S50+16+GB+Pen+Drive	299.0	2017,03,14,14,09,05
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7a04erghb3qcp	Electronics	null	Lexar	Lexar+JumpDrive+S50+16+GB+Pen+Drive	299.0	2017,03,21,19,38,22
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	s0vi8n0tvoun	Electronics	null	SanDisk	Sandisk+Cruzer+Orbit+CZ58+8GB+Pen+Drive	100.0	2017,03,21,19,38,47
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	b27iab9rmkbti	Electronics	null	Sandisk	Sandisk+CZ+15+16GB+Pen+Drive	100.0	2017,03,21,19,39,13
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7a04erghb3qcp	Electronics	null	Lexar	Lexar+JumpDrive+S50+16+GB+Pen+Drive	299.0	2017,03,21,19,39,28
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	euj82i05tlavt	Electronics	null	Zipmem	Zipmem+32+Gb+Pen+Drives	582.0	2017,03,21,19,40,01
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	5s9lem5qgva35	Men's Fashion	men clothing	null	Stay Warm-Look Cool!	800.0	2017,11,04,20,01,41
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	842e8mrf70hpf	Men's Fashion	men clothing	null	Amazon EOSS: Flat 40-80% OFF	209.0	2016,12,31,00,01,20
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	5g2e2u525q760	null	null	null	charge-on-the-go	0.0	2016,12,31,00,01,56
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	d2j5cv74df8pl	null	null	null	xolo-era-2x-2-3gb-black-and-gun-16-gb	0.0	2017,01,10,22,24,22
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	a78i0ho537q5d	null	null	null	safari-bags-45-to-70-off	0.0	2017,01,11,23,47,40
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	a78i0ho537q5d	null	null	null	safari-bags-45-to-70-off	0.0	2017,01,11,23,48,56
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7faaf91c2mim9	null	null	null	integriti-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,11,23,49,44
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7faaf91c2mim9	null	null	null	integriti-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,11,23,50,45
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7ho2mgvdqj2le	null	null	null	basics-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,11,23,51,45
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7ho2mgvdqj2le	null	null	null	basics-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,11,23,52,23
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7ho2mgvdqj2le	null	null	null	basics-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,11,23,52,25
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	eo06l3ecmpbpm	null	null	null	99-off-on-products-in-tata-cliq-s-treasure-hunt	0.0	2017,01,11,23,54,29
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	eo06l3ecmpbpm	null	null	null	99-off-on-products-in-tata-cliq-s-treasure-hunt	0.0	2017,01,11,23,56,15
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,16,23,02,45
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,16,23,09,45
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,16,23,14,28
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	8br1quublbl5q	null	null	null	buy-mobiles-under-rs-999	0.0	2017,01,16,23,16,05
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	2usdgf9gv7j2q	null	null	null	karbonn-k9-smart-4g-volte	0.0	2017,01,18,18,43,29
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	di32k6v5a4jl5	null	null	null	letv-le-max4gb-32gb	0.0	2017,01,18,18,52,46
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	di32k6v5a4jl5	null	null	null	letv-le-max4gb-32gb	0.0	2017,01,18,18,53,22
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	di32k6v5a4jl5	null	null	null	letv-le-max4gb-32gb	0.0	2017,01,18,18,54,07
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	7faaf91c2mim9	null	null	null	integriti-men-s-clothing-flat-60-off-10-cashback-with-airtel-money	0.0	2017,01,18,23,28,05
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	2l92e7kec3ots	Mobiles	null	Mi	Xiaomi Redmi 3S Prime	10499.0	2017,01,18,23,30,16
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	f42gnmk8inre3	null	null	null	leeco-le2-32gb-rs-11400-with-credit-debit-card	0.0	2017,01,18,23,37,21
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	9il558trsvvlg	Mobiles	null	SanDisk	Sandisk Ultra Micro Sd 64 Gb 48 Mbps	426.0	2017,01,18,23,40,53
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	7vbkcrgj2emfj	null	null	null	intex-star-pda-dual	0.0	2017,01,19,20,26,27
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	848kp4fvs4u58	null	null	null	buy-f-d-2-1-multimedia-speakers-f313u-only-for-rs-819	0.0	2017,01,20,20,38,50
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	avk3rfcualbq5	null	null	null	5th-anniversary-sale-jaw-dropping-deals	0.0	2017,01,20,20,41,48
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	4n9i61b8pfuk1	null	null	null	crazy-deals-on-mobiles	0.0	2017,01,21,17,29,44
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	9vfkqji49rej5	null	null	null	gionee-s6s-4g-dual-sim-32-gb-mocha-gold	0.0	2017,01,27,06,54,47
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	6il47r4aln1p5	null	null	null	up-to-50-off-on-hard-drives-memory-cards-pen-drives	0.0	2017,01,31,20,53,48
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	9il558trsvvlg	Mobiles	null	SanDisk	Sandisk Ultra Micro Sd 64 Gb 48 Mbps	426.0	2017,03,04,21,45,34
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	f3hfi225v3p0u	Electronics	null	SanDisk	Sandisk+Cruzer+Blade+32+GB+Pen+Drive	550.0	2017,03,12,22,52,54
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	c7c6rhipgja7e	null	null	null	samsung-evo-plus-32gb-microsd-card-red-grey	0.0	2017,03,14,13,56,55
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	c7c6rhipgja7e	null	null	null	samsung-evo-plus-32gb-microsd-card-red-grey	0.0	2017,03,14,13,58,15
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	c7c6rhipgja7e	null	null	null	samsung-evo-plus-32gb-microsd-card-red-grey	0.0	2017,03,14,13,58,52
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	sd_64ve1nfamlq94	Men's Fashion	null	Hide&Sleek	Hide&Sleek Hide & Sleek Black Card Holder For Men	349.0	2016,12,15,19,44,57
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	fk_7o11nevdece3h	null	null	Pure Luxurious Bathing	Pure Luxurious Bathing Orange & Carrot Body Revitalizing Bar(100 g)	145.0	2016,12,15,19,45,10
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	sd_d8lej1hk0pnlp	null	null	GAS	Gas Smash Badminton Racquet (set Of 2)	199.0	2016,12,15,19,54,32
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	fk_aebcg5foudcj1	Electronics	null	Toshiba	Toshiba TransMemory - U202 32 GB Pen Drive(White)	692.0	2016,12,11,19,44,06
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	sd_bbamsm2ahok2b	Men's Fashion	null	Lambency	Lambency Black Biker Jacket	1705.0	2016,12,11,20,05,34
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	sd_bbamsm2ahok2b	Men's Fashion	null	Lambency	Lambency Black Biker Jacket	1705.0	2016,12,11,20,05,34
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	sd_bl4k9mra142ft	null	null	Slick	Slick Casual Card Holder	131.0	2016,12,11,19,47,46
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	fk_2s893mnaofrht	Women's Fashion	null	Zipcartfashion	Zipcartfashion Self Design Women's Lehenga, Choli and Dupatta Set(Stitched)	555.0	2016,12,30,23,59,45
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	listing	az_3o7o2g4ae9fql	Men's Fashion	null	The Banyan Tee	The Banyan Tee, Social Vegan	699.0	2016,12,30,23,58,29
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	fk_4kgekuu9aeok	null	null	BB4	BB4+USB+Type+C+OTG+Adapter%28Pack+of+1%29	199.0	2017,03,04,21,44,52
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	product	fk_4kgekuu9aeok	null	null	BB4	BB4+USB+Type+C+OTG+Adapter%28Pack+of+1%29	199.0	2017,03,04,21,45,00
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	ajr0aoe495bd3	Men%27s+Fashion	null	null	Flat+40-80%25+OFF-+Amazon+Fashion%21	449.0	2017,03,05,22,29,27
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	5j8f0uf0l1nei	null	electronics	null	Personal Care Appliances	180.0	2017,03,13,20,35,25
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	6a5s1kcbnquh8	null	null	null	india-s-largest-beauty-store	0.0	2017,03,13,09,51,07
+scusr-5d84cb12-6a5b-4ae0-9d3c-e0b63927aa2b	deal	5j8f0uf0l1nei	null	electronics	null	Personal Care Appliances	180.0	2017,03,14,14,09,44
+scusr-1b5a4e56-2f9e-470d-a81b-ca9087baefbd	listing	az_87fg4ajonnfss	null	null	BigMouth Inc	BigMouth Inc Big Boobs Salt and Pepper Shaker Set	5755.0	2016,12,14,10,25,42
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	deal	r3jkilflggic	null	unknown	null	The Flipkart Fashion Sale	799.0	2017,01,05,14,10,54
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	deal	r3jkilflggic	null	unknown	null	The Flipkart Fashion Sale	799.0	2017,01,05,14,11,34
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	deal	atln61o8pkkqm	null	null	null	deal-of-the-day-lightning-deals	0.0	2017,01,15,13,58,32
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	deal	atln61o8pkkqm	null	null	null	deal-of-the-day-lightning-deals	0.0	2017,01,15,13,59,32
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	listing	fk_2am5vpiduq7h	null	null	E Gitanjali Ltd	E Gitanjali Ltd Solid 24 (999) K 2 g Gold Coin	5945.0	2016,12,15,16,03,33
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	listing	fk_2am5vpiduq7h	null	null	E Gitanjali Ltd	E Gitanjali Ltd Solid 24 (999) K 2 g Gold Coin	5945.0	2016,12,15,16,03,33
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	listing	sd_cuvdfkglrejbn	null	null	Harpic	Harpic Toilet Cleaner Power Original 1 Litre	142.0	2016,12,15,16,07,00
+scusr-0e0ca78b-4201-4e10-bbce-7224de75889f	listing	sd_27pgeh636jjgv	Men's Fashion	null	Kzaara	Kzaara Yellow Outdoor Shoes	494.0	2016,12,15,14,57,01
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	product	3b5oosgup3pv3	null	null	Batman	Batman Arkham Knight (Games, PC)	0.0	2016,01,02,22,09,07
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	product	29rlgbtrkm1h8	null	null	Motorola	Moto Racer 3 Gold Edition (Games, PC)	249.0	2016,01,02,22,09,34
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	deal	3sbin7bptl37j	Mobiles	mobile & accessories	null	Redmi 3S & Redmi 3S Prime Sale (Starts@12 Noon Today) 	6999.0	2016,12,14,12,18,32
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	product	avknplf0532p1	null	null	null	the-ultimate-temple-run-2-unofficial-players-game-guide-get-the-high-score-download-and-play-for-free-by-josh-abbott	0.0	2017,01,02,22,08,19
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	product	29rlgbtrkm1h8	null	null	Motorola	Moto Racer 3 Gold Edition (Games, PC)	249.0	2017,01,02,22,09,50
+scusr-5fc43d8c-c2cf-42c6-93ce-56513a1a9939	listing	jb_74gb4m94f1u1c	Women's Fashion	null	Libas	Libas Multicoloured Printed  patiyala suit	799.0	2016,12,14,17,19,03
+scusr-d7143053-d172-4f86-a545-9790842597c6	product	c5ahd0et7one8	Mobiles	null	Samsung	Samsung On5	7499.0	2016,12,12,21,37,58
+scusr-d7143053-d172-4f86-a545-9790842597c6	product	c5ahd0et7one8	Mobiles	null	Samsung	Samsung On5	7499.0	2016,12,12,21,36,40
+scusr-d7143053-d172-4f86-a545-9790842597c6	deal	2ued49b2pgv2l	Mobiles	mobile & accessories	null	Moto M	15999.0	2016,12,14,19,49,01
+scusr-d7143053-d172-4f86-a545-9790842597c6	listing	fk_4avlpre7k0eoq	null	null	Glass	Pro Glass Tempered Glass Guard for Xiaomi Redmi 3s Prime	229.0	2016,12,14,19,23,40
+scusr-d7143053-d172-4f86-a545-9790842597c6	listing	fk_4avlpre7k0eoq	null	null	Glass	Pro Glass Tempered Glass Guard for Xiaomi Redmi 3s Prime	229.0	2016,12,14,19,23,48
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	5o626ihth027c	Mobiles	null	Lenovo	Lenovo Vibe K5 Note  32 GB  4 GB RAM	11999.0	2016,12,10,23,23,37
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	dou2316v3vhd8	Electronics	null	Western Digital	Buffalo MiniStation Stealth USB 3 0 1 TB External Hard Disk	4369.0	2016,12,12,21,38,07
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	ekh284f570tsu	Women's Fashion	null	Emjoi	Emjoi Gently Silken Rechargeable Cord & Cordless AP-9PB Epilator, Shaver For Women	65.0	2016,12,12,23,44,01
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	fs5i3qkv1nkdi	Mobiles	null	Samsung	Samsung On7 Pro	9990.0	2016,12,12,21,47,47
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	b9fb1i5gr3rto	Home & Kitchen	null	Electrolux	Electrolux EC090P 80 L Single Door Refrigerator	8400.0	2016,12,12,23,29,11
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	bb1p422u42evc	Home & Kitchen	null	Electrolux	Electrolux EC060P 47 L Single Door Refrigerator	6615.0	2016,12,12,23,29,29
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	8rehoi92ukt9k	Electronics	null	Epson	Epson L130 Single Function Inkjet Printer	6919.0	2016,12,12,21,34,30
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	mll4rlef8m	Mobiles	null	Nokia	Nokia lumia 630 single	7500.0	2016,12,12,23,29,16
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	dou2316v3vhd8	Electronics	null	Western Digital	Buffalo MiniStation Stealth USB 3 0 1 TB External Hard Disk	4369.0	2016,12,12,21,47,39
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	product	d7200qijs77j6	null	null	Nova	Nova Professional 2 In 1 Hair Curler + Hair Straightener	390.0	2016,12,12,23,44,11
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	2t4bbr82vom70	Mobiles	mobile & accessories	null	Everything A Phone Needs	899.0	2016,11,27,19,52,16
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	dv41b6ot3o4al	null	unknown	null	Winter Care For Ur Skin!	110.0	2016,11,24,12,07,52
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	1fmo88ulrhcu9	null	unknown	null	Accessories Carnival @Flipkart	829.0	2016,11,14,14,03,47
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	5rngokpmu9drv	null	kids	null	Bring a Smile On Ur Li'l One!	100.0	2016,11,09,16,41,40
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	6hs2g1c5t5ikv	null	unknown	null	Look Beautiful,Feel Beautiful	183.0	2017,11,07,16,57,29
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	5i15cen1auupk	null	mobile & accessories	null	Storage Devices  Start @140	140.0	2017,10,28,20,34,43
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	deal	aoie8u8senuu9	null	electronics	null	Big Diwali Sale Is Live Now!	300.0	2017,10,22,12,18,06
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_6qd1a6kjmq0dk	Women's Fashion	null	Smart	Smart Lady Black Denim Lycra Jeans	799.0	2016,12,13,15,15,35
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_a9ved8jds0vdj	Women's Fashion	null	Pepe Jeans	Pepe Jeans Blue Solid Polo T-shirts	499.0	2016,12,13,15,14,25
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_7vpn6lktin3n6	Women's Fashion	null	Smart	Smart Lady Beige Denim Lycra Jeans	857.0	2016,12,13,15,13,59
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_6qd1a6kjmq0dk	Women's Fashion	null	Smart	Smart Lady Black Denim Lycra Jeans	799.0	2016,12,13,15,16,10
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_dcqvkkrpmb8g7	Women's Fashion	null	Pepe Jeans	Pepe Jeans Green Printed T-shirt	579.0	2016,12,13,15,17,21
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_5nnsl1dhtrt3q	Women's Fashion	null	Pepe Jeans	Pepe Jeans Navy Blue Printed T-shirt	549.0	2016,12,13,15,15,25
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_7dkatfu36fh95	Women's Fashion	null	Voi Jeans	Voi Jeans Blue Tee	906.0	2016,12,13,15,16,29
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_8n1d85bk46gru	Women's Fashion	null	Pepe Jeans	Pepe Jeans Blue Printed Jumpsuits	929.0	2016,12,13,15,14,16
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_fk24p16lqbg5n	Women's Fashion	null	Pepe Jeans	Pepe Jeans Beige Printed T-shirt	449.0	2016,12,13,15,17,09
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_7dkatfu36fh95	Women's Fashion	null	Voi Jeans	Voi Jeans Blue Tee	906.0	2016,12,13,15,14,07
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_7afj1u637cjh3	Women's Fashion	null	Glam Quotient	Glam Quotient Self Design Babydoll	539.0	2016,12,13,15,18,25
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_6bpk1g0b0btdq	Women's Fashion	null	Shakumbhari	Shakumbhari Blue 3/4th Sleeves Round Neck Kurta	792.0	2016,12,13,15,18,55
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_3qujjbpl2r7kr	Women's Fashion	null	Oxolloxo	Oxolloxo Black Polyester Crop Tops	559.0	2016,12,12,21,34,37
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_cl0n6fbvtfqf4	Women's Fashion	null	Glory	Glory Black Fancy Ladies Watch	179.0	2016,12,13,14,52,11
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_chhbr4cre3tmo	Kids & Toys	null	Crazeis	Crazeis Multicolour Net Stiched Lehnga Choli	919.0	2016,12,12,21,30,59
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_d19e8e3h7cm0t	Women's Fashion	null	Masha	Masha Red Satin Nightsuit Sets	399.0	2016,12,12,21,47,50
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_63lkep2n3c255	Women's Fashion	null	Purys	Purys Blue Winter Fleece Jacket	570.0	2016,12,13,14,42,06
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_87jo5eqk3devq	Women's Fashion	null	Aalishan	Aalishan Purple Ladies Slipper	199.0	2016,12,12,23,37,06
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_4iraa3sc9c14d	Women's Fashion	null	Dressberry	Dressberry Women's Single Breasted Coat	2799.0	2016,12,10,23,22,00
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_a6mkeeh4v0nir	Women's Fashion	null	shri satyay art	Shri Satyay Art Maroon Net Anarkali Gown Semi-stitched Suit	650.0	2016,12,10,23,21,43
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_ci3uj59vcm995	Women's Fashion	null	Pin Point	Pin Point Casual Solid Women's Kurti(Blue, Red)	324.0	2016,12,10,23,26,23
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_9thp5906ppv62	Kids & Toys	null	Maniac	Maniac Pack Of 3 Multicolour Full Sleeves T-shirts	375.0	2016,12,10,23,29,02
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_6sq5l0lg7f1ad	null	null	Wildcraft	Wildcraft The Drum 2_Black 18 inch/45 cm Gym Bag(Black)	475.0	2016,12,10,22,55,42
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_8q2e0r6hq3oo6	Kids & Toys	null	SAARAH	Saarah White Synthetic Sleeveless Girls Lehenga Cholis	842.0	2016,12,10,23,29,59
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_ci3uj59vcm995	Women's Fashion	null	Pin Point	Pin Point Casual Solid Women's Kurti(Blue, Red)	324.0	2016,12,10,22,17,58
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_deqroml5h7ce1	Women's Fashion	null	Aashvi Creation	Aashvi Creation Blue Cotton Straight Unstitched Dress Material	848.0	2016,12,10,23,22,44
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_5vnnnbu3e6hv1	null	null	DOMO	DOMO nHance RB4B Paper Anaglyph 3D Video Glasses - Pack of 4 Video Glasses(Multicolor)	189.0	2016,12,10,22,56,42
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_57jhil3jl420p	Electronics	null	HP	HP 15 6 inch Laptop Backpack(Black)	1799.0	2016,12,10,22,18,47
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	fk_agcfg1h0blidn	Men's Fashion	null	Sparx	Sparx Casuals(Green, Blue)	977.0	2016,12,10,22,24,19
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_ekovrdeuvvmlj	Women's Fashion	null	MURLIWALE	Murliwale Navy Super Net Anarkali Gown Semi-stitched Suit	549.0	2016,12,10,23,19,47
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_5p77i330b5afg	Kids & Toys	null	AJ Dezines	Aj Dezines Multicolour Cotton Spandex Suit	1151.0	2016,12,10,23,27,37
+scusr-02a28863-72ad-4564-8c4a-9d3305ae1e16	listing	sd_b10gjpnnag9lg	Kids & Toys	null	Maniac	Maniac Pack Of 5 Multicolour Half Sleeves T-shirts	547.0	2016,12,10,23,29,22
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	product	avknkb5nd5868	Mobiles	null	Coolpad	Coolpad Note 5	10999.0	2016,12,31,15,20,23
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	product	avknkb5nd5868	Mobiles	null	Coolpad	Coolpad Note 5	10999.0	2016,12,31,14,09,19
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	product	4u2bsp0rbq1jf	Mobiles	null	null	Coolpad Note 3	7999.0	2016,12,31,14,10,22
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	product	c1673c3h0ldqt	Mobiles	null	Samsung	Samsung Galaxy Note 5 Dual SIM	40900.0	2016,12,31,15,20,02
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	deal	2d9apqet09naj	null	mobile & accessories	null	Deals On Smartphones!	10499.0	2016,12,15,17,58,06
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	deal	dkmp41uuk48j8	null	unknown	null	The Grocery Sale	129.0	2016,12,16,13,40,17
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	listing	az_9fr4137n41aqa	Electronics	null	POWEREYE	Powereye 20TL LED TV (Black)	4999.0	2016,12,15,17,58,59
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	listing	az_9fr4137n41aqa	Electronics	null	POWEREYE	Powereye 20TL LED TV (Black)	4999.0	2016,12,15,18,08,13
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	listing	az_9fr4137n41aqa	Electronics	null	POWEREYE	Powereye 20TL LED TV (Black)	4999.0	2016,12,15,17,59,42
+scusr-c618f035-9eab-4718-9d45-50109b1a9699	listing	az_9fr4137n41aqa	Electronics	null	POWEREYE	Powereye 20TL LED TV (Black)	4999.0	2016,12,15,18,07,38
+scusr-f7ba49c5-58a3-40b2-9d79-32d1f6391e5e	listing	az_1e60tqqvb5kn7	Men's Fashion	null	FINZ	FINZ Lower for Men, Mens Lower	599.0	2016,12,15,15,56,41
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	product	3aci2gc6ta2bo	Mobiles	null	SAMSUNG	SAMSUNG Galaxy On8 16 GB	15900.0	2017,01,07,22,14,11
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	59k45pts4d15r	null	mobile & accessories	null	4G-VoLTE Phone @Rs 3333	3333.0	2016,11,24,13,26,03
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	2h7gd88drbhe3	null	mobile & accessories	null	Mobile Accessories Starts@49 !!	84.0	2016,11,22,17,14,11
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	26bermau4sqkf	Mobiles	unknown	null	Power Banks Starts @ Rs159	159.0	2016,11,08,17,05,40
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	f16rm3vqavb8	null	unknown	null	Deals Just 4 Today!	8399.0	2017,11,07,12,41,20
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	ep6o1frcqbmlj	Mobiles	mobile & accessories	null	Jio 4G Mobiles Start @3399	3399.0	2017,11,04,10,07,08
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	deal	fnd9qqdolvsfc	Women's Fashion	women clothing	null	Flat 40-80% OFF -Ethnic Wear!	499.0	2017,11,03,17,37,04
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_4101uib81hdh7	null	null	bajaj	Bajaj Kitty Red Tricycle	1990.0	2016,12,14,18,41,14
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_4afaf1m6luvcm	Women's Fashion	null	Luxury	Luxury Maroon Flats	449.0	2016,12,14,18,42,00
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_490afipb9hsip	Women's Fashion	null	Krishna7 Enterprise	Krishna7 Enterprise Embroidered Women's Lehenga, Choli and Dupatta Set(Stitched)	529.0	2016,12,14,18,40,02
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_7afj1u637cjh3	Women's Fashion	null	Glam Quotient	Glam Quotient Self Design Babydoll	539.0	2016,12,14,18,40,49
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_3cr019j345spl	null	null	Veet	Veet Full Body Waxing Kit Normal (Pack of 2)	272.0	2016,12,14,18,44,36
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_di3a24rp3a4g6	Women's Fashion	null	Timex	Timex XV05 Classics Analog Watch  - For Women	1100.0	2016,12,14,18,40,23
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_cc53nqtdt7u9	null	null	Lakme	Lakme Enrich Satins Lip Color, Shade R357, 4 3 G	221.0	2016,12,08,13,13,47
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_6puqheo09phi	Women's Fashion	null	Merito	Merito Cotton Printed Suit Fabric, Kurta & Churidar Material, Salwar Suit Material, Dress/Top Material, Salwar Suit Dupatta Material(Un-stitched)	555.0	2016,12,08,13,12,29
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	fk_b6gps51k1fj4p	Women's Fashion	null	Texclusive	Texclusive Net Embroidered Lehenga Choli Material(Un-stitched)	549.0	2016,12,08,13,10,59
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_11qam786dspuh	Women's Fashion	null	Drapme	Drapme Blue Velvet Blouses	895.0	2017,11,07,12,47,02
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_857t35svdnjj7	null	null	Voylla	Voylla Golden Alloy Mantika	348.0	2017,11,07,12,42,56
+scusr-cf58a6eb-f272-4ed0-9904-d09bb8a853a2	listing	sd_bv9f6bdktv19o	null	null	Sunflower	Sunflower Pink Double Bed Mosquito Net (set Of 2)	449.0	2017,11,07,12,44,43
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	product	6db0k23j9j6c0	Electronics	null	Intex	Intex It-881u 2 1 Speaker System	879.0	2016,12,06,21,07,23
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	product	6db0k23j9j6c0	Electronics	null	Intex	Intex It-881u 2 1 Speaker System	879.0	2016,12,11,16,13,21
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	deal	2t4bbr82vom70	Mobiles	mobile & accessories	null	Everything A Phone Needs	899.0	2016,11,29,17,25,09
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	deal	tekeij2nvg7p	null	unknown	null	Look Fab This Wedding Season!	279.0	2016,11,25,08,58,38
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	deal	89md0ue42ckc2	null	unknown	null	Buy 1 Pizza & Get 1 Pizza Absolutely FREE ; Buy 2 Get 2; Buy 3 Get 3!	100.0	2016,11,25,20,49,26
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	deal	7vdbtp5q4u5lg	Mobiles	mobile & accessories	null	Top Selling Mobile & Tablets	424.0	2016,11,17,13,18,45
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	deal	c32d447umuv5t	Women's Fashion	women clothing	null	Min  70% OFF-Top Brands!	430.0	2016,11,16,16,53,45
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	listing	sd_89g1r3fv0bftm	Men's Fashion	null	Nike	Nike Black Running Shoes	7995.0	2016,12,13,19,37,12
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	listing	fk_b3u00kl3umqlc	Women's Fashion	null	United Colors of Benetton	United Colors of Benetton Casual Sleeveless Solid Women's Orange Top	251.0	2016,12,13,19,32,59
+scusr-102ccd81-7ff0-4172-b48f-d882bad98539	listing	sd_3juqrshvq8pko	null	null	KSJ	Ksj U8 Black Bluetooth Smart Watch	629.0	2016,12,06,21,04,28
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	cbkto2rr71ne0	Electronics	null	JBL	JBL T250SI On-the-ear Headphone	849.0	2016,12,24,09,30,20
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	5n28v3k6lrskt	null	null	Motorola	Motorola Boom-HX600 Wireless Headset	10.0	2016,12,12,09,09,31
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	6kvdgnn1qfm7j	Mobiles	null	Promate	Promate Mondo Wireless Headset	11.0	2016,12,11,16,52,32
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	bub187ivgre0v	Electronics	null	Jbl	JBL M330 OEM Wood In Ear 3 5mm Jack Earphone	299.0	2016,12,12,20,05,37
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	7k8hu2pa0c16r	Electronics	null	Skullcandy	Skullcandy 2XL Spoke Purple (X2SPFZ-826)	599.0	2016,12,12,20,28,31
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	5v6m3gcnbjceh	Electronics	null	Skullcandy	Skull Candy Mix Master Mike Over Ear DJ Headphones	13990.0	2016,12,12,20,25,03
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	16b8kmp305g2p	Electronics	null	JBL	JBL Flip II Cricket Wireless Portable Stereo Speaker	4499.0	2016,12,12,19,59,16
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	1qpj0gj20jrq4	Electronics	null	Skullcandy	Skullcandy 2XL Offset Pink (X2OFFZ-825)	399.0	2016,12,12,20,23,31
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	1qpj0gj20jrq4	Electronics	null	Skullcandy	Skullcandy 2XL Offset Pink (X2OFFZ-825)	399.0	2016,12,12,20,56,22
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	8qdrdtrlsgosb	Electronics	null	iBall	iBall BeatOn Cordless Headphone With Mic	1830.0	2016,12,11,16,48,43
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	5n28v3k6lrskt	null	null	Motorola	Motorola Boom-HX600 Wireless Headset	10.0	2016,12,11,16,52,44
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	8p5cism2jm4k9	Electronics	null	Sennheiser	Sennheiser Wireless Headphone RS120	6415.0	2016,12,11,16,45,09
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	cbkto2rr71ne0	Electronics	null	JBL	JBL T250SI On-the-ear Headphone	849.0	2016,01,01,23,29,23
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	cbkto2rr71ne0	Electronics	null	JBL	JBL T250SI On-the-ear Headphone	849.0	2017,02,08,20,24,06
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	br6k9rhqeie6c	Men's Fashion	null	Philips	Philips QT4000/15 Trimmer For Men	970.0	2017,02,14,02,28,05
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	8u45auvs9m3ij	Mobiles	null	Samsung	Samsung+GALAXY+NOTE	13999.0	2017,04,16,00,40,34
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	5j8f0uf0l1nei	null	electronics	null	Personal Care Appliances	180.0	2016,01,01,23,26,25
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	9gdesdvarsvj7	null	unknown	null	Min 50% Off On Puma | Fila & More	199.0	2017,02,14,02,25,51
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2017,03,17,22,24,24
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2017,03,17,22,24,24
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	3m4mek8sannks	null	electronics	null	Upto 50% OFF On Data Storage!	345.0	2017,03,17,22,24,27
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	3sao2k2f847tl	Men%27s+Fashion	null	vivera+	Men%2C+Women%2C+Kids+Fashion+under+Rs +499+on+amazon	299.0	2017,06,04,13,33,08
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	az_ceq97a1j4eqm7	Mobiles	null	SBA	SBA SAMSUNG GALAXY J7 (2016) 100% ORIGINAL GENUINE QUALITY AAA Grade Compatible Certified to charge 3000 cycles Micro USB v2 0 ( V8 Cable ) Charging + PC Data Sync / Transfer Cable with data transfer speed @480mbps and charging speed @ 1% per minute- WHITE ONLY FRROM V A  BRANDS	195.0	2016,12,15,12,10,30
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	az_c1hj635jmo5dq	Mobiles	null	SBA	Samsung Galaxy j2 SBA 100% ORIGINAL GENUINE QUALITYQUALITY AAA Grade Compatible Certified Compatible Car Charger /Travel Charger / Mobile Charger + AAA Grade Compatible Certified Micro USB ( V8 Cable ) Charging + PC Data Sync / Transfer Cable with data transfer speed @480mbps and High Speed Charging - - WHITE(ONLY FRROM V A  BRANDS)	96.0	2016,12,15,12,11,46
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	sc_d0bm5tvtns5fs	Mobiles	null	Other	Other ORIGINAL SAMSUNG USB DATA CABLE FOR GALAXY GRAND I9082/ QUATTRO I8552 + WARRANTY	149.0	2016,12,15,12,10,25
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	az_c1hj635jmo5dq	Mobiles	null	SBA	Samsung Galaxy j2 SBA 100% ORIGINAL GENUINE QUALITYQUALITY AAA Grade Compatible Certified Compatible Car Charger /Travel Charger / Mobile Charger + AAA Grade Compatible Certified Micro USB ( V8 Cable ) Charging + PC Data Sync / Transfer Cable with data transfer speed @480mbps and High Speed Charging - - WHITE(ONLY FRROM V A  BRANDS)	96.0	2016,12,15,12,09,01
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	az_4ni2a8rm4gsrh	Mobiles	null	SBA	SBA Samsung Galaxy S7 edge Compatible 100% ORIGINAL GENUINE QUALITY AAA Grade Certified to charge 3000 cycles @ Ultra High Speed Charging & Data Transfer Micro USB v2 0 ( V8 Cable ) Charging + PC Data Sync / Transfer Cable-BLACK	105.0	2016,12,15,12,11,02
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	sd_15jveclk9n13h	Kids & Toys	null	Adidas	Adidas Black Sport Shoes For Kids	512.0	2016,12,11,18,51,16
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	gd_8fmh6acpslbun	null	null	Skullcandy	Skullcandy S2DUDZ-012 In-Ear Headphone	199.0	2016,12,25,13,24,30
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	listing	az_an1k1hibh4m3q	Electronics	null	Skullcandy	Skullcandy Rail S2LEZ-J567 In Ear Wired Earphones Without Mic(Black Charcoal)	299.0	2016,01,01,23,28,43
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_46l4f38nqmub6	Mobiles	null	Kapa	Kapa+Ultra+Thin+Aluminum+Metal+Bumper+Frame+Case+Cover+for+Samsung+Galaxy+Grand+2+-+Black	155.0	2017,02,17,20,34,32
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	sc_dtta0s5q7dtm2	Mobiles	null	null	Samsung+Galaxy+Grand+2+Clear+Transparent+TPU+Back+Cover+Case	99.0	2017,02,17,20,35,25
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_46l4f38nqmub6	Mobiles	null	Kapa	Kapa+Ultra+Thin+Aluminum+Metal+Bumper+Frame+Case+Cover+for+Samsung+Galaxy+Grand+2+-+Black	155.0	2017,02,25,00,23,05
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_bnqjlu04b6sg8	Mobiles	null	Rebel	Rebel+Compatible+with+Samsung+SM-G7106+Galaxy+Grand+2+Duos+Flexible+Soft+Case+Slim+Jelly+Series+Crys	79.0	2017,03,17,22,25,01
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_46l4f38nqmub6	Mobiles	null	Kapa	Kapa+Ultra+Thin+Aluminum+Metal+Bumper+Frame+Case+Cover+for+Samsung+Galaxy+Grand+2+-+Black	155.0	2017,03,17,22,26,54
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	sc_dvpvh03gngk5n	Mobiles	null	null	KLD+Oscar+Red+Color+Flip+Cover+For+Samsung+Galaxy+Grand+2-7106	99.0	2017,04,16,00,14,13
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_62jpkjaki1dhc	Mobiles	null	Defender	Defender+Ultra+Thin+0 3mm+Clear+Transparent+Flexible+Soft+TPU+Slim+Back+Case+Cover+For+Samsung+Galax	85.0	2017,04,16,00,15,25
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	sc_dvpvh03gngk5n	Mobiles	null	null	KLD+Oscar+Red+Color+Flip+Cover+For+Samsung+Galaxy+Grand+2-7106	99.0	2017,04,16,00,15,54
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_62jpkjaki1dhc	Mobiles	null	Defender	Defender+Ultra+Thin+0 3mm+Clear+Transparent+Flexible+Soft+TPU+Slim+Back+Case+Cover+For+Samsung+Galax	85.0	2017,04,16,00,16,07
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	sc_5q3km39upbjj7	Mobiles	null	null	Motomo+backcover+for+samsung+galaxy+grand+2	99.0	2017,04,16,00,17,03
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	fk_boqqgqakavkb	Mobiles	null	Shop4everything	Shop4everything+Back+Cover+for+Samsung+Galaxy+Grand+2	79.0	2017,04,16,00,18,08
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_46l4f38nqmub6	Mobiles	null	Kapa	Kapa+Ultra+Thin+Aluminum+Metal+Bumper+Frame+Case+Cover+for+Samsung+Galaxy+Grand+2+-+Black	155.0	2017,04,16,00,23,05
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	fk_4vn6n4mnv9l3c	Men%27s+Fashion	null	Rock	Rick+Rock+Casuals%28White%29	299.0	2017,04,16,00,28,13
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	fk_4vn6n4mnv9l3c	Men%27s+Fashion	null	Rock	Rick+Rock+Casuals%28White%29	299.0	2017,04,16,00,29,29
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	az_3uu7mjob47ug5	Men%27s+Fashion	null	Lalit+Agencies	Lalit+Agencies+Lalit+Plain+Red+Cricket+Cap+For+Men	90.0	2017,04,16,00,34,47
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	product	fk_e5i6gcmeg3dqa	Men%27s+Fashion	null	BRUTON	BRUTON+CUBIC_1+Running+Shoes%28Blue%2C+Brown%29	389.0	2017,04,16,00,40,58
+scusr-32a98f39-1ce8-4794-a8bc-992fe1b15e08	deal	a99cqcboemhsu	null	null	null	Pick+Any+%40+Rs+499+%26+Below	299.0	2017,03,19,13,31,52
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	4gotigfpvuvbu	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Nano (MX123) 500 W Mixer Grinder	1590.0	2016,12,28,18,34,08
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	8p28cr4m83p54	Home & Kitchen	null	Bajaj	Bajaj GX 1 Mixer Grinder	1797.0	2016,12,28,18,41,31
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cgf08lrpr27k6	Home & Kitchen	null	Bajaj	Bajaj Glory 500 W Mixer Grinder 3 Jars	1750.0	2016,12,28,18,42,52
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	b172p28anmsea	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline MX-145 500-Watt MG Marvello Mixer Grinder	1509.0	2016,12,28,18,09,42
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	4ec4u7ms8u3ud	null	null	null	Maharaja Whiteline Ultimate Dlx Juicer Mixer Grinder Red And	0.0	2016,12,28,18,08,36
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	953aoc9sdcn41	Home & Kitchen	null	Prestige	Prestige Juicer Mixer Grinder	4098.60009765625	2016,12,28,17,59,29
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	d8ail7asemk43	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Ultimate Red Treasure JX-101 550-Watt Juicer Mixer Grinder	2200.0	2016,12,28,18,44,07
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	b172p28anmsea	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline MX-145 500-Watt MG Marvello Mixer Grinder	1509.0	2016,12,28,18,33,31
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	8p28cr4m83p54	Home & Kitchen	null	Bajaj	Bajaj GX 1 Mixer Grinder	1797.0	2016,12,28,18,31,04
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	7r0l16i19rl90	Home & Kitchen	null	Bajaj	Bajaj ION 500 750 W Mixer Grinder 3 Jars	1919.0	2016,12,28,18,38,17
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	4gotigfpvuvbu	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Nano (MX123) 500 W Mixer Grinder	1590.0	2016,12,28,18,10,50
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	48j0ag02prah6	Home & Kitchen	null	Bajaj	Bajaj Tornado 550 Mixer Grinder	2189.0	2016,12,28,18,45,28
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	3su2443b66663	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Desire Treasure 550 W Juice Extractor	1750.0	2016,12,28,18,02,15
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmunoh5f7migt	Home & Kitchen	null	Bajaj	Bajaj Rex 500 W Mixer Grinder (3 Jar)	1590.0	2016,12,28,18,35,08
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	ahe7dvddqrqa1	Home & Kitchen	null	Bajaj	Bajaj Popular 450 W Mixer Grinder 3 Jars	1879.0	2016,12,28,18,41,47
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmunoh5f7migt	Home & Kitchen	null	Bajaj	Bajaj Rex 500 W Mixer Grinder (3 Jar)	1590.0	2016,12,28,18,37,40
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	ak5fkd95d151q	Electronics	null	Acer	Acer ES1-131-C8RL E Series ES1-131-C8RL NX MYKSI 009 N3050 - (2 GB DDR3/500 GB HDD/Windows 10) Netbook	17799.0	2017,01,07,09,21,13
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cj1h0pi1mj5dq	Electronics	null	Dell	DELL Inspiron Mini	16300.0	2017,01,07,09,23,46
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	1a7hb71i7i4ue	Electronics	null	Dell	Dell Vostro 15 3558 15 6-inch (Celeron Dual Core - 5th Gen /4GB/500GB/DOS)	19199.0	2017,01,07,09,26,02
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	7bue20cd4f1b8	Electronics	null	Dell	Dell Vostro 15 3558 15 6-inch (Core i3/4GB/500GB/DOS)	19199.0	2017,01,07,09,17,24
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	6me31hfls6o0k	Electronics	null	Lenovo	Lenovo Ideapad 100 APU Quad Core A8 - (8 GB/1 TB HDD/Free DOS/2 GB Graphics) 80TJ00BNIH IP110 Notebook	3885.0	2017,01,07,09,18,18
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	7bue20cd4f1b8	Electronics	null	Dell	Dell Vostro 15 3558 15 6-inch (Core i3/4GB/500GB/DOS)	19199.0	2017,01,07,09,26,28
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	4092h1a2611so	Electronics	null	Dell	Dell 15-3551 Laptop	18469.0	2017,01,07,09,25,03
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	32cl6f5egvbi6	Electronics	null	Intex	Intex IT-1600 U Multimedia Desktop Speaker	1350.0	2017,02,12,20,11,37
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	758r0dsenkq89	Electronics	null	Philips	Philips MMS1515F/94 Speakers	1700.0	2017,02,12,19,59,18
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,12,19,57,09
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,12,19,56,41
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,13,11,08,23
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,13,20,43,23
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmkgapb7i0rbn	null	null	Vsure	Vsure Vht-5010 5 1 Home Theatre System	1839.0	2017,02,15,19,09,35
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	43il5ts7pqsav	null	null	Vsure	Vsure HT2 1B 2 1 Home Theatre System	1499.0	2017,02,15,19,12,43
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	diuvln66c7k50	null	null	Vsure	Vsure Vht-4003 4 1 Home Theatre System	1759.0	2017,02,15,19,08,05
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmkgapb7i0rbn	null	null	Vsure	Vsure Vht-5010 5 1 Home Theatre System	1839.0	2017,02,15,19,09,47
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmkgapb7i0rbn	null	null	Vsure	Vsure Vht-5010 5 1 Home Theatre System	1839.0	2017,02,15,19,11,15
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	17cn5jnavg4sp	null	null	Intex	Intex IT-RIDER SUF 4 1 Home Theatre System	4999.0	2017,02,15,19,01,55
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	4guucds81iich	null	null	SNECOM	SNECOM GE908 4 1 Home Theatre System	1599.0	2017,02,15,19,08,53
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	d8ail7asemk43	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Ultimate Red Treasure JX-101 550-Watt Juicer Mixer Grinder	2200.0	2017,02,15,19,14,36
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,15,19,15,45
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,16,23,00,23
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	32cl6f5egvbi6	Electronics	null	Intex	Intex IT-1600 U Multimedia Desktop Speaker	1350.0	2017,02,18,08,10,35
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	6b05k0497f0gr	Mobiles	null	null	I+Kall+K12	529.0	2017,02,18,08,18,15
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	arri6s1arel82	Mobiles	null	Mido	Mido+D15	549.0	2017,02,18,08,21,11
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	6cf0e96s9r0jf	Mobiles	null	Intex	Intex+Eco+Beats	709.0	2017,02,18,08,21,51
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,13,20,07,45
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fp78pc6gbcand	Home+%26+Kitchen	null	Philips	Philips+HL1631+500+Juicer+Mixer+Grinder+%28Blue%29	2140.0	2017,02,13,20,17,24
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fp78pc6gbcand	Home+%26+Kitchen	null	Philips	Philips+HL1631+500+Juicer+Mixer+Grinder+%28Blue%29	2140.0	2017,02,13,20,17,54
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2017,02,03,09,44,39
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2017,02,15,07,10,52
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	fmunoh5f7migt	Home & Kitchen	null	Bajaj	Bajaj Rex 500 W Mixer Grinder (3 Jar)	1590.0	2016,12,28,18,35,39
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	7bue20cd4f1b8	Electronics	null	Dell	Dell Vostro 15 3558 15 6-inch (Core i3/4GB/500GB/DOS)	19199.0	2017,01,07,09,27,20
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	4j6mphtdq70ij	null	unknown	null	Choose Ur Credit Card Now!	1.0	2017,02,03,09,45,03
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	d02f259811hrh	null	null	null	melbon-crv-1-8-inch-featurephone	0.0	2017,02,12,16,05,54
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	fp8fdeq3p54m7	null	null	null	free-calendar-paytm	0.0	2017,02,12,16,13,45
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	fp8fdeq3p54m7	null	null	null	free-calendar-paytm	0.0	2017,02,12,16,15,34
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	deal	fp8fdeq3p54m7	null	null	null	free-calendar-paytm	0.0	2017,02,12,20,17,06
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	cecqlganolutv	Electronics	null	Envent	Envent MUSIQUE 4 1 Multimedia Portable Home Audio Speaker	1599.0	2017,02,13,11,15,56
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	product	6cf0e96s9r0jf	Mobiles	null	Intex	Intex+Eco+Beats	709.0	2017,02,18,08,23,07
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_bhd8nutlsitlk	Home & Kitchen	null	Usha	Usha Electric EI-1602 1000-Watt Dry Iron - White (Panel color may vary)	399.0	2016,12,14,00,14,14
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_esgbvr907ats9	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Easio 1000-Watt Dry Iron (White and Red)	402.0	2016,12,14,00,02,16
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_3gm4fi7ar42o3	Home & Kitchen	null	SAMEER	Sameer L/X7 Magic cool touch Dry iron	379.0	2016,12,13,23,15,39
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_7jcedcr31bfkc	Home & Kitchen	null	Havells	Havells Era 1000-Watt Dry Iron (Grey/White)	439.0	2016,12,14,11,20,47
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_a46nc4fn4tqgm	Home & Kitchen	null	Orpat	Orpat OEI-177 1000-Watt Dry Iron (Blue)	424.0	2016,12,14,00,05,42
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_2jqarc8b3s2rv	Home & Kitchen	null	Cello	Cello Plug N Press 400 750-Watt Iron (White)	840.0	2016,12,13,23,17,20
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_cbc2mb33khmej	Home & Kitchen	null	Orpat	Orpat OEI 187 1200-Watt Dry Iron (White and Blue)	449.0	2016,12,13,23,25,40
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_2jqarc8b3s2rv	Home & Kitchen	null	Cello	Cello Plug N Press 400 750-Watt Iron (White)	840.0	2016,12,13,23,44,54
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_7jcedcr31bfkc	Home & Kitchen	null	Havells	Havells Era 1000-Watt Dry Iron (Grey/White)	439.0	2016,12,14,23,28,25
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_2jqarc8b3s2rv	Home & Kitchen	null	Cello	Cello Plug N Press 400 750-Watt Iron (White)	840.0	2016,12,14,23,29,36
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_3gm4fi7ar42o3	Home & Kitchen	null	SAMEER	Sameer L/X7 Magic cool touch Dry iron	379.0	2016,12,13,23,15,47
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_94d3i3ar1afq1	Home & Kitchen	null	Inalsa	Inalsa Ruby 1000-Watt dry iron	387.0	2016,12,14,00,00,20
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_bhd8nutlsitlk	Home & Kitchen	null	Usha	Usha Electric EI-1602 1000-Watt Dry Iron - White (Panel color may vary)	399.0	2016,12,13,23,45,12
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_bhd8nutlsitlk	Home & Kitchen	null	Usha	Usha Electric EI-1602 1000-Watt Dry Iron - White (Panel color may vary)	399.0	2016,12,13,23,18,58
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_94d3i3ar1afq1	Home & Kitchen	null	Inalsa	Inalsa Ruby 1000-Watt dry iron	387.0	2016,12,13,23,45,01
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_7jcedcr31bfkc	Home & Kitchen	null	Havells	Havells Era 1000-Watt Dry Iron (Grey/White)	439.0	2016,12,14,00,03,23
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_bhd8nutlsitlk	Home & Kitchen	null	Usha	Usha Electric EI-1602 1000-Watt Dry Iron - White (Panel color may vary)	399.0	2016,12,14,11,13,21
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_34ab2v2uh37b5	Men's Fashion	null	V4M	V4M BLACK RIDER WITH TAN STRIPES GENUINE LEATHER WINTER DRIVING RIDER GLOVES 1 PAIR	210.0	2016,01,01,19,59,00
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_c5g86fgrtg3n0	Kids & Toys	null	JUBINATION	Jubination Bike rider/Pollution Face mask for boys and girls(pack of 3)	169.0	2016,01,01,19,58,37
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_fbeffho2ecnbo	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Joy Happiness 550-Watt Mixer Grinder (Red/White)	2104.0	2016,12,28,18,44,35
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_dp8r1b3s2jri3	Home & Kitchen	null	Bajaj	Bajaj Rex 500-Watt Mixer Grinder with 3 Jars (White)	1590.0	2016,12,28,18,33,55
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	fk_d2qfnqbs4ecql	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Marvello(Mx-145)003 500 W Mixer Grinder(Red, White, 3 Jars)	1850.0	2016,12,28,18,11,29
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	fk_d2qfnqbs4ecql	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Marvello(Mx-145)003 500 W Mixer Grinder(Red, White, 3 Jars)	1850.0	2016,12,28,18,41,16
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	sd_boa6tpr5vbiqq	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Nano Mixer Grinder	1639.0	2016,12,28,18,34,26
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_371gj6l5ts0c4	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Solo Happiness 500-Watt Mixer Grinder (Red and White)	1675.0	2016,12,28,18,34,14
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_3v1ukkojemqma	Home & Kitchen	null	Bajaj	Bajaj Glory 500-Watt Mixer grinder with 3 Jars (White)	1750.0	2016,12,28,18,36,41
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_dp8r1b3s2jri3	Home & Kitchen	null	Bajaj	Bajaj Rex 500-Watt Mixer Grinder with 3 Jars (White)	1590.0	2016,12,28,18,10,34
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	fk_d2qfnqbs4ecql	Home & Kitchen	null	Maharaja Whiteline	Maharaja Whiteline Marvello(Mx-145)003 500 W Mixer Grinder(Red, White, 3 Jars)	1850.0	2016,12,28,18,41,07
+scusr-de1b43b3-9ffe-4829-8d87-8478136aeccb	listing	az_dp8r1b3s2jri3	Home & Kitchen	null	Bajaj	Bajaj Rex 500-Watt Mixer Grinder with 3 Jars (White)	1590.0	2016,12,28,18,32,52
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	product	2clahc5ctlcol	Mobiles	null	Forme	Forme Hero 32MB Red Mobile Phone	779.0	2016,12,23,18,46,35
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	deal	3sbin7bptl37j	Mobiles	mobile & accessories	null	Redmi 3S & Redmi 3S Prime Sale (Starts@12 Noon Today) 	6999.0	2016,12,14,15,03,33
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_4rsuik6hnuu34	Electronics	null	Amway	Amway Attitude Be Bright Face Wash (100 ml)	255.0	2016,12,14,13,55,12
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	sc_92raddeg55vlk	Women's Fashion	null	Amway	AMWAY Attitude Be Bright Face Scrub(100 ml)	399.0	2016,12,14,11,52,16
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_ai07vjna7l0ud	null	null	Amway	Amway Attitude Be Bright Face Scrub(100 ml)	365.0	2016,12,14,13,50,55
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	sc_92raddeg55vlk	Women's Fashion	null	Amway	AMWAY Attitude Be Bright Face Scrub(100 ml)	399.0	2016,12,14,15,07,32
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	sc_92raddeg55vlk	Women's Fashion	null	Amway	AMWAY Attitude Be Bright Face Scrub(100 ml)	399.0	2016,12,14,13,50,01
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_25hvbmd4m8vdv	Electronics	null	TRADERS	TRADERS Amway Attitude Be Bright Night Cream(50 gms)	549.0	2016,12,14,14,00,11
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_4rsuik6hnuu34	Electronics	null	Amway	Amway Attitude Be Bright Face Wash (100 ml)	255.0	2016,12,14,14,00,42
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_4rsuik6hnuu34	Electronics	null	Amway	Amway Attitude Be Bright Face Wash (100 ml)	255.0	2016,12,14,13,55,33
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_215k6v7pbme5m	Electronics	null	Amway	Amway Attitude Be Bright Day Cream(50 gms)	340.0	2016,12,14,13,58,06
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_8kdnq152tu3ic	Electronics	null	Amway	Amway Attitude Be Bright Face Scrub(100 ml * 3 Pack )	1241.0	2016,12,14,15,09,02
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_ai07vjna7l0ud	null	null	Amway	Amway Attitude Be Bright Face Scrub(100 ml)	365.0	2016,12,14,13,56,21
+scusr-f93a1d4a-e52b-44c9-9150-946ea7a05781	listing	az_4rsuik6hnuu34	Electronics	null	Amway	Amway Attitude Be Bright Face Wash (100 ml)	255.0	2016,12,14,13,49,20
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	az_2cg2ct3164dol	null	null	Neon	Neon USB 3 0 Super Speed All in one (Multi) Memory Card Reader	750.0	2016,12,15,19,27,52
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	az_90ko3a12sgp30	Mobiles	null	Magideal	Magideal SD Card Reader USB Type C Micro USB USB 3 0 OTG for MacBook Windows Android	720.0	2016,12,15,19,26,28
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	az_1ofkor2fibbr7	null	null	Neon	Neon USB 3 0 Card Reader for SD-XC, SD, MMC, RS-MMC, SD-HC, Micro SDHC, Micro SDXC, Micro SD, Mini SD (White)	399.0	2016,12,15,19,23,43
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	sd_f1eln7j6i3bq6	null	null	Transcend	Transcend Card Reader Usb 3 0	969.0	2016,12,15,19,20,40
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	az_1vko7ccadrk3k	Mobiles	null	Transcend	Transcend USB 3 0 Super Speed Multi-Card Reader for SD/SDHC/SDXC/MS/CF Cards (TS-RDF8K)	898.0	2016,12,15,19,31,20
+scusr-e71dfc0a-c645-435f-b401-4d1681db8428	listing	az_1vko7ccadrk3k	Mobiles	null	Transcend	Transcend USB 3 0 Super Speed Multi-Card Reader for SD/SDHC/SDXC/MS/CF Cards (TS-RDF8K)	898.0	2016,12,15,19,25,18
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	54qouv1dom9ln	Home & Kitchen	null	Glen	Glen GL4043Plus 250-Watt 0 4-Litre Mini Chopper	1248.0	2016,12,10,11,35,52
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	54qouv1dom9ln	Home & Kitchen	null	Glen	Glen GL4043Plus 250-Watt 0 4-Litre Mini Chopper	1248.0	2016,12,10,13,15,32
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	er2rhtqb2pq11	null	null	Philips	Philips QG3387 Multi Grooming Kit	3249.0	2016,12,28,08,22,18
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	bllipa1lmptv6	Mobiles	null	Samsung	Samsung Evo 16gb Micro Sd 48mb/s - Class10	379.0	2016,12,28,08,23,06
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	6lqu1t9k4btvh	Home & Kitchen	null	KitchenAid	Kitchenaid Classic Euro Peeler,	570.7100219726562	2017,01,06,22,48,48
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	42rcinlv5nvoa	Home & Kitchen	null	Asent	Asent AS-211 Food chopper	890.0	2017,01,06,22,48,35
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	cg4boofe9hohc	null	null	Philips	Philips Hair Straightener HP8315	1195.0	2017,01,06,08,42,06
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	cg4boofe9hohc	null	null	Philips	Philips Hair Straightener HP8315	1195.0	2017,01,06,08,41,49
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	57ikuc866alid	Mobiles	null	Motorola	Moto M 64 GB	17999.0	2017,01,05,13,58,14
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	1pnpge2tsoc6m	Mobiles	null	Intex	Intex IT-PB11K Intex IT-PB11K 11000 mAh Power Bank 11000 mAh	899.0	2017,01,14,20,30,58
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	7ktdg3q8ig5ap	Home+%26+Kitchen	null	Orbit	Orbit+Typhoon+8X+Mini+Chopper	949.0	2017,05,28,15,25,45
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	42rcinlv5nvoa	Home & Kitchen	null	Asent	Asent AS-211 Food chopper	890.0	2017,05,28,15,32,58
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	product	fg8adosn90ng6	Home+%26+Kitchen	null	Bright	Bright+8+in+1+Vegetable+Slicer+%26+Grater	249.0	2017,05,28,15,40,38
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	92ev3iu5lb2mv	null	electronics	null	Get Upto 450 Back*  	289.0	2016,12,28,08,19,36
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	ps312h8ke0bp	null	null	null	upto-rs-2000-off-on-moto-g4-range	0.0	2016,12,28,08,20,42
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	92ev3iu5lb2mv	null	electronics	null	Get Upto 450 Back*  	289.0	2016,12,28,08,20,47
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	92ev3iu5lb2mv	null	electronics	null	Get Upto 450 Back*  	289.0	2016,12,28,08,21,01
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	842e8mrf70hpf	Men's Fashion	men clothing	null	Amazon EOSS: Flat 40-80% OFF	209.0	2016,12,29,09,11,13
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,42,07
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,42,13
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,42,22
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,42,45
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,44,31
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,04,20,44,43
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	31gnkdcu31ldv	null	unknown	null	Wednesday Super Saver Bazaar	49.0	2017,01,06,21,12,25
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	6370sl5qi2rti	null	null	null	latest-styles-lowest-prices	0.0	2017,01,15,10,01,24
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	6370sl5qi2rti	null	null	null	latest-styles-lowest-prices	0.0	2017,01,15,10,01,24
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	ajr0aoe495bd3	Men%27s+Fashion	null	null	Flat+40-80%25+OFF-+Amazon+Fashion%21	449.0	2017,01,17,20,27,48
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	ajr0aoe495bd3	Men%27s+Fashion	null	null	Flat+40-80%25+OFF-+Amazon+Fashion%21	449.0	2017,01,20,18,17,50
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	6v8felffn2jvd	null	null	null	inalsa-chopper-smart-chop-white	0.0	2017,01,22,13,01,41
+scusr-ef29d156-2ec0-4fac-8f69-d6d3c32f7096	deal	degfs0khhuegn	null	null	null	home-kitchen-upto-80-off	0.0	2017,01,24,08,44,24
